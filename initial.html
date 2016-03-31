@@ -1,0 +1,104 @@
+<html>
+<div id="chartContainer">
+<head>
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="http://dimplejs.org/dist/dimple.v2.1.6.min.js"></script>
+
+  <style>
+      circle.dimple-series-1 {
+        fill: red;
+      }
+
+      h2 {
+        text-align: center;
+      }
+    </style>
+	
+<script type="text/javascript">
+function draw(data) {
+"use strict";
+          var margin = 50,
+              width = 1000 - margin,
+              height = 500 - margin;
+
+          d3.select("body")
+            .append("h2")
+            .text("Crop production")
+
+          var svg = d3.select("body")
+            .append("svg")
+              .attr("width", width + margin)
+              .attr("height", height + margin)
+            .append('g')
+                .attr('class','chart');
+//debugger;
+var myChart = new dimple.chart(svg, data);
+var x = myChart.addTimeAxis("x", "Year");
+x.showGridlines = true;
+x.tickFormat = "%Y";
+x.timeInterval = 2;
+var y = myChart.addMeasureAxis("y", "Value");
+y.tickFormat = ',3d';
+y.timeInterval = 10000;
+var y = d3.scale.linear().domain([1000,800000]).range([10000,0]);
+var s = myChart.addSeries(["ItemName"], dimple.plot.bubble);
+s.lineWeight = 4;
+s.lineMarkers = true;
+var myLegend = myChart.addLegend(940, 100, 75, 230, "Right");
+myChart.draw();        
+        // creating legends.
+        myChart.legends = [];
+        // adding titles to legend
+        svg.selectAll("title_text")
+          .data(["Click Legend to","show/hide Items:"])
+          .enter()
+          .append("text")
+            .attr("x", 910)
+            .attr("y", function (d, i) { return 80 + i * 14; })
+            .style("font-family", "sans-serif")
+            .style("font-size", "10px")
+            .style("color", "Black")
+            .text(function (d) { return d; });
+        // filtering values
+        var filterValues = dimple.getUniqueValues(data, "ItenName");        
+        //click events.
+		myLegend.shapes.selectAll("rect")          
+          .on("click", function (e) {
+            // toggling legend values.
+            var hide = false;
+            var newFilters = [];            
+            filterValues.forEach(function (f) {
+              if (f === e.aggField.slice(-1)[0]) {
+                hide = true;
+              } else {
+                newFilters.push(f);
+              }
+            });
+            // Hide the shape or show it
+            if (hide) {
+              d3.select(this).style("opacity", 0.2);
+            } else {
+              newFilters.push(e.aggField.slice(-1)[0]);
+              d3.select(this).style("opacity", 0.8);
+            }            
+            filterValues = newFilters;
+            // Filter the data
+            myChart.data = dimple.filterData(data, "ItemName", filterValues);
+            // duration of animation            			
+            myChart.draw(2000);
+          });
+	};
+	
+ </script>
+</head>
+  </div>
+  <body>
+ <script type="text/javascript">
+  /*
+    Use D3 (not dimple.js) to load the CSV file
+    and pass the contents of it to the draw function
+    */
+  d3.tsv("crops_production.csv", draw);
+  </script>
+  </body>
+ </html>

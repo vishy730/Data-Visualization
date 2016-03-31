@@ -1,0 +1,6 @@
+http://www.jeromecukier.net/blog/2012/09/04/getting-to-hello-world-with-d3/
+https://github.com/PMSI-AlignAlytics/dimple/wiki/dimple.axis#title
+https://github.com/PMSI-AlignAlytics/dimple/wiki/dimple.aggregateMethod
+https://discussions.udacity.com/c/nd002-p6-data-visualization-with-d3-js
+http://www.d3noob.org/2014/02/styles-in-d3js.html
+dimplejs.org/examples_index.html
