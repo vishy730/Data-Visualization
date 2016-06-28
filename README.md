@@ -70,7 +70,7 @@ Considering the feedback from the reviewer, I have created a story board and tho
 
 ## Final Visualization:
 
-![Minion](https://github.com/vishy730/Data-Visualization/blob/master/Capture2.JPG)
+![Minion](https://github.com/vishy730/Data-Visualization/blob/master/Capture2.PNG)
 
 #### Observations: 
 
