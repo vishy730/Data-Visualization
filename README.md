@@ -45,6 +45,9 @@ Line chart simply communicates the data in better fashion espically when we are 
 | y-axis          | max count|
 | color hue       | Item Name|
 
+
+Bar chart communicates better when we are comparing which crop is yielding more in a given year. I have taken the max values for each Item/product and displayed on hoverover of the points in the line chart. Item codes have different names which dataset didnt provide and to be considered for future development.
+
 ### Layout and Narrative
 
 Layout is thought of communicating the trends of different crops. The idea is to narrate the trends of production yield in India over the period of 20 years. The initial design before feedback shows the trends in very cluttered way.
@@ -63,6 +66,14 @@ Layout is thought of communicating the trends of different crops. The idea is to
 Considering above all the feedback points, I have modified the graph from bubble chart to line chart and applied aggregateMax function over ItemCode and showed it, on the hoverover of the points, instead of total count of the Yield per year. Also changed the title of y-axis.
 
 Considering the feedback from the reviewer, I have created a story board and thought that bar chart would be apt for this visualization and modified the same.
+
+### Bar Chart
+
+| Visual Encoding | Variable |
+|-----------------|----------|
+| x-axis          | Item Name|
+| y-axis          | max count|
+| color hue       | Year     |
 
 ## Final Visualization - Iteration -1:
 
