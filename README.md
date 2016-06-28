@@ -2,7 +2,7 @@
 
 ## Summary
 
-   The data visualization charts various crop production yields from 1994-2014. It shows the trend of yield and max yield for each item for a given year. 
+   In this visualization we try to find out how different crops yield for a given period of time i.e., 1994 - 2014. The question is: were some crops just give more yield consistently over the years and were some crops fluctuate often in their yield?. Is that just a one time event or is it persistent over time? That could mean that so many factors were influencing the yields other than weather patterns. However, the dataset is limited just to the crops and their yield in tonnes over the years in India. Seconds thoughts could include that if a crop is consistently decreasing, we could find out more about the crop that why it is diminishing in our further analysis....etc. 
 
 ## Design
 
@@ -62,14 +62,20 @@ Layout is thought of communicating the trends of different crops. The idea is to
 
 Considering above all the feedback points, I have modified the graph from bubble chart to line chart and applied aggregateMax function over ItemCode and showed it, on the hoverover of the points, instead of total count of the Yield per year. Also changed the title of y-axis.
 
-## Final Visualization:
+Considering the feedback from the reviewer, I have created a story board and thought that bar chart would be apt for this visualization and modified the same.
+
+## Final Visualization - Iteration -1:
 
 ![Minion](https://github.com/vishy730/Data-Visualization/blob/master/Capture1.JPG)
 
+## Final Visualization:
+
+![Minion](https://github.com/vishy730/Data-Visualization/blob/master/Capture2.JPG)
+
 #### Observations: 
 
-* Coconuts have steady growth over the years. Same is the case with pulses and cereals.
-* Vegetables and fruits have a bumpy graph over the years which can be attributed to various weather conditions.
+* Of all the crops, Coconut showed the steady increase in the yield followed by pulses.
+* The most fluctuating yield was observed in two crops - Fruits and Vegetables.
 
 
 ### Future Work:
