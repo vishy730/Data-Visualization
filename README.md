@@ -65,9 +65,7 @@ Layout is thought of communicating the trends of different crops. The idea is to
 
 Considering above all the feedback points, I have modified the graph from bubble chart to line chart and applied aggregateMax function over ItemCode and showed it, on the hoverover of the points, instead of total count of the Yield per year. Also changed the title of y-axis.
 
-## Working Example
 
-http://bl.ocks.org/vishy730/2103dcf7f20ff086bde3400f58a3d1e2
 
 Considering the feedback from the reviewer, I have created a story board and thought that bar chart would be apt for this visualization and modified the same.
 
@@ -83,9 +81,17 @@ Considering the feedback from the reviewer, I have created a story board and tho
 
 ![Minion](https://github.com/vishy730/Data-Visualization/blob/master/Capture1.JPG)
 
+## Working Example
+
+http://bl.ocks.org/vishy730/2103dcf7f20ff086bde3400f58a3d1e2
+
 ## Final Visualization - Iteration -2:
 
 ![Minion](https://github.com/vishy730/Data-Visualization/blob/master/Capture2.PNG)
+
+## Working Example
+
+http://bl.ocks.org/vishy730/58dcc8f664c2eb73da90837cece47b4d
 
 ## Final Visualization
 
