@@ -2,7 +2,7 @@
 
 ## Summary
 
-   In this visualization we try to find out how different crops yield for a given period of time i.e., 1994 - 2014. The question is: were some crops just give more yield consistently over the years and were some crops fluctuate often in their yield?. Is that just a one time event or is it persistent over time? That could mean that so many factors were influencing the yields other than weather patterns. However, the dataset is limited just to the crops and their yield in tonnes over the years in India. Seconds thoughts could include that if a crop is consistently decreasing, we could find out more about the crop that why it is diminishing in our further analysis....etc. 
+   In this visualization we try to find out how different crops yield for a given period of time i.e., 1994 - 2014. The questions are: Which crop is consistent performer?. Can we see any trend in the yield over the years? That could mean that so many factors were influencing the yields other than weather patterns. However, the dataset is limited just to the crops and their yield in tonnes over the years in India. Seconds thoughts could include that if a crop is consistently decreasing, we could find out more about the crop that why it is diminishing in our further analysis....etc. We could see that Cocount is the clear winner with respect to yield followed by Cereals and the diminishing trend is observed for Fruits.
 
 ## Design
 
@@ -65,6 +65,10 @@ Layout is thought of communicating the trends of different crops. The idea is to
 
 Considering above all the feedback points, I have modified the graph from bubble chart to line chart and applied aggregateMax function over ItemCode and showed it, on the hoverover of the points, instead of total count of the Yield per year. Also changed the title of y-axis.
 
+## Working Example
+
+http://bl.ocks.org/vishy730/2103dcf7f20ff086bde3400f58a3d1e2
+
 Considering the feedback from the reviewer, I have created a story board and thought that bar chart would be apt for this visualization and modified the same.
 
 ### Bar Chart
@@ -79,9 +83,19 @@ Considering the feedback from the reviewer, I have created a story board and tho
 
 ![Minion](https://github.com/vishy730/Data-Visualization/blob/master/Capture1.JPG)
 
-## Final Visualization:
+## Final Visualization - Iteration -2:
 
 ![Minion](https://github.com/vishy730/Data-Visualization/blob/master/Capture2.PNG)
+
+## Final Visualization
+
+Have introduced the trend for each crop on hover over of each crop. Have used crops for x-axis as I wanted to show different categories. The animation for years has given so that one can see the yield of crops over the years automatically. The hover over graph tells us the overall trend for a given crop over the years. Here I could find that coconuts had steady growth in yield and Fruits had very much turbulent down trend.
+
+![Minion](https://github.com/vishy730/Data-Visualization/blob/master/Capture_3.PNG)
+
+## Working example.
+
+http://bl.ocks.org/vishy730/42beef5005b2010401ed895002a58992
 
 #### Observations: 
 
