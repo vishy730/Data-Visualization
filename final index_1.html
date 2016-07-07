@@ -20,14 +20,14 @@
 	var indicatorColor = indicator.defaultColors[4];
 	  
 	// Frame duration for the animation in milliseconds
-	var frame = 4500;
+	var frame = 4000;
 	 
 	// First button selected
 	var firstTick = true;
 	  
 	// Placing the indicator bar chart to the right
 	// Setting size of buttons
-	indicator.setBounds(430, 49, 95, 375);
+	indicator.setBounds(430, 49, 95, 355);
 	  
 	//Use Production in Tonnes for bar size and hide the axis
 	var y = indicator.addCategoryAxis("y", "Year");
@@ -57,10 +57,9 @@
     // Adding the legend title, into a d3 data
     // object to split it onto 2 lines.
     svg.selectAll("title_text")
-        .data(["Click bar to select and pause.",
-               "Click again to resume animation.",               
-			   "Alternatively hover over",
-			   "any graph to see the trend."])
+        .data(["Click bar to select",
+               "and pause. Click again",
+               "to resume animation"])
         .enter()
         .append("text")
         .attr("x", 435)
@@ -77,7 +76,7 @@
         .style("fill", function (d) { return (d.y === '1994' ? indicatorColor.fill : defaultColor.fill) })
         .style("stroke", function (d) { return (d.y === '1994' ? indicatorColor.stroke : defaultColor.stroke) })
         .style("opacity", 0.4);
-
+          	 	 
 	// Drawing the main chart
 	var myChart = new dimple.chart(svg, data);
 	myChart.setBounds(60, 80, 355, 310);
@@ -99,15 +98,6 @@
 	//s.lineWeight = 2;
 	s1.lineMarkers = true;
 	s1.aggregate = dimple.aggregateMethod.max;
-	
-	//showing tip chart
-	var tipChart = null;
-	var popup = null;
-	
-	// Handle the hover event - overriding the default behaviour
-	s1.addEventHandler("mouseover", onHover);
-	// Handle the leave event - overriding the default behaviour
-	s1.addEventHandler("mouseleave", onLeave);
 	
 	//Adding Legend
 	myChart.addLegend(60, 10, 410, 60);
@@ -132,88 +122,6 @@
         .style("font-size", "16px") 
         .style("text-decoration", "underline")  
         .text("Yield of different crops over the Years");
-	
-	// Event to handle mouse enter
-    function onHover(e) {
-    // Get the properties of the selected shape
-    var cx = parseFloat(e.selectedShape.attr("x")),
-        cy = parseFloat(e.selectedShape.attr("y")),
-        r = 0,
-        fill = e.selectedShape.attr("fill"),
-        stroke = e.selectedShape.attr("stroke");
-        // Set the size and position of the popup
-    var width = 150,
-        height = 100,
-        x = (cx + r + width + 10 < svg.attr("width") ?
-			cx + r + 10 :
-            cx - r - width - 20);
-            y = (cy - height / 2 < 0 ? 15 : cy - height / 2);
-        // Fade the popup fill mixing the shape fill with 80% white
-        var popupFillColor = d3.rgb(
-								d3.rgb(fill).r + 0.8 * (255 - d3.rgb(fill).r),
-								d3.rgb(fill).g + 0.8 * (255 - d3.rgb(fill).g),
-								d3.rgb(fill).b + 0.8 * (255 - d3.rgb(fill).b)
-							);
-        
-    // Create a group for the popup objects
-    popup = svg.append("g");
-    // Add a rectangle surrounding the chart
-    popup
-		.append("rect")
-		.attr("x", x + 5)
-		.attr("y", y - 5)
-		.attr("width", width)
-		.attr("height", height)
-		.attr("rx", 5)
-		.attr("ry", 5)
-		.style("fill", popupFillColor)
-		.style("stroke", stroke)
-		.style("stroke-width", 2);
-        
-    // Add the series value text
-	popup
-		.append("text")
-		.attr("x", x + 10)
-		.attr("y", y + 10)
-		.text(e.seriesValue[0])
-		.style("font-family", "sans-serif")
-		.style("font-size", 10)
-		.style("fill", stroke);
-        
-	// Filter the data for the selected ItemName and Year
-	var hoverData = dimple.filterData(data, "ItemName", e.xValue);
-	// Create a new mini chart of Production in Tonnes over the years.
-	tipChart = new dimple.chart(svg,  hoverData);
-	tipChart.setBounds(x + 10, y + 30, width - 10, height - 40);
-	tipChart.addCategoryAxis("x", "Year").hidden = true;
-	tipChart.addMeasureAxis("y", "Production in tonnes").hidden = true;
-	
-	// Add a line series for better readability and understanding
-	// by changing the plot parameter accordingly.
-	var popUpSeries = tipChart.addSeries("SelectedSeries", dimple.plot.line);
-	
-	// Set the gap to 80% - just a style preference
-	popUpSeries.barGap = 0.8;
-        
-	// Set the color to the stroke color of the selected node
-	tipChart.assignColor("SelectedSeries", stroke, stroke);
-
-	// Draw the mini chart
-	tipChart.draw();
-        
-    };
-	
-	// Event to handle mouse exit
-    function onLeave(e) {
-    // Remove the chart
-        if (tipChart !== null) {
-          tipChart._group.remove();
-        }
-        // Remove the popup
-        if (popup !== null) {
-          popup.remove();
-        }
-    };
         
     // On click of the side chart
     function onClick(e) {
