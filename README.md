@@ -1,8 +1,8 @@
-# Data Visualization of Crops Yield from India over a period of 20 years from 1994-2014.
+# Is there any effect of deforestation and industrialization on Crops Yield over the last two decades?
 
 ## Summary
 
-   In this visualization we try to find out how different crops yield for a given period of time i.e., 1994 - 2014. The questions are: Which crop is consistent performer?. Can we see any trend in the yield over the years? That could mean that so many factors were influencing the yields other than weather patterns. However, the dataset is limited just to the crops and their yield in tonnes over the years in India. Seconds thoughts could include that if a crop is consistently decreasing, we could find out more about the crop that why it is diminishing in our further analysis....etc. We could see that Cocount is the clear winner with respect to yield followed by Cereals and the diminishing trend is observed for Fruits.
+   What are the effects of Industrialization, Global Warming, Deforestation? The primary affected sector is agriculture and lets explore here what are those effects and whether commercial crops were affected or staple ones. After having a bit of analysis, we could see that effect was visible on fruits and vegetables espically but commercial crops were steadily picking up over the two decades. Lets go through to understand the effects better over the years.
 
 ## Design
 
@@ -85,6 +85,8 @@ Considering the feedback from the reviewer, I have created a story board and tho
 
 http://bl.ocks.org/vishy730/2103dcf7f20ff086bde3400f58a3d1e2
 
+In the above example we could see the distribution of various crops over the years and its a bit harder to identify the trends from it. However, we could observe a couple of things such as pulses and Lentils were more or less the same or in other words, the production is constant with some variance here and there till El Nino effect hit harder in 2014. So we have moved over a more sophisticated chart to understand the trends better.
+
 ## Final Visualization - Iteration -2:
 
 ![Minion](https://github.com/vishy730/Data-Visualization/blob/master/Capture2.PNG)
@@ -93,15 +95,27 @@ http://bl.ocks.org/vishy730/2103dcf7f20ff086bde3400f58a3d1e2
 
 http://bl.ocks.org/vishy730/58dcc8f664c2eb73da90837cece47b4d
 
-## Final Visualization
+In this version we could see that chart is not cluttered. However, it was again difficult to draw the conclusion of various crop yields. Still we can observe that Fruits and vegetables were the most fluctuating crops in terms of yield. So can we conclude that fruit and vegetable crops were badly affected? In order to confirm we wanted to show the trends of all the crops across the years for better understanding. So we have introduced trend graphs in next iteration.
 
-Have introduced the trend for each crop on hover over of each crop. Have used crops for x-axis as I wanted to show different categories. The animation for years has given so that one can see the yield of crops over the years automatically. The hover over graph tells us the overall trend for a given crop over the years. Here I could find that coconuts had steady growth in yield and Fruits had very much turbulent down trend.
+## Final Visualization - Iteration -3:
 
 ![Minion](https://github.com/vishy730/Data-Visualization/blob/master/Capture_3.PNG)
 
 ## Working example.
 
 http://bl.ocks.org/vishy730/42beef5005b2010401ed895002a58992
+
+In this version, introduced the trend for each crop on hover over of each crop. Have used crops for x-axis as I wanted to show different categories. The animation for years has given so that one can see the yield of crops over the years automatically. The hover over graph tells us the overall trend for a given crop over the years. Here I could find that coconuts had steady growth in yield and Fruits had very much turbulent down trend. However, by looking at the chart itself we could not deduct anything better apart from knowing the trend of each crop on hover over. So we thought of grouping various crops based on color and show the trends.
+
+## Final Visualization - Iteration -4:
+
+![Minion](https://github.com/vishy730/Data-Visualization/blob/master/Capture_5.PNG)
+
+## Working example.
+
+http://bl.ocks.org/vishy730/b65bb7d42a4dc61b88fd666249cd79a9
+
+In this version, commercial crops such as Jute, Cotton, Tobacco were grouped and assiged a color Blue. The interesting crop Coconuts were steadily increasing over the years was given Red color and the diminishing trend of Fruits was given Green. The primary colors RBG were choosen so that they are catchy to eye-ball. Now by looking at the chart one could easily understand the trend of commerical crops were increased over the years and the coconut is the real winner since 2 decades in terms of production. So the three trends were highliighted in the chart for better understanding and conveying a story. Also the year 2014 was hit severly by El nino effect and was visible clearly in the chart. 
 
 #### Observations: 
 
