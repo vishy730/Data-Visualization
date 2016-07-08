@@ -109,7 +109,7 @@ In this version, introduced the trend for each crop on hover over of each crop. 
 
 ## Final Visualization - Iteration -4:
 
-![Minion](https://github.com/vishy730/Data-Visualization/blob/master/Capture_5.PNG)
+![Minion](https://github.com/vishy730/Data-Visualization/blob/master/Capture_5.JPG)
 
 ## Working example.
 
