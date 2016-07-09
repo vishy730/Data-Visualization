@@ -1,0 +1,1163 @@
+,X,Domain.Code,Domain,AreaCode,AreaName,ElementCode,ElementName,ItemCode,ItemName,Year,Production.in.tonnes,Flag,FlagD
+1,1,QC,Crops,100,India,5419,Yield,15,Cereals,1994,23796,Fc,Calculated data
+2,2,QC,Crops,100,India,5419,Yield,15,Cereals,1995,25590,Fc,Calculated data
+3,3,QC,Crops,100,India,5419,Yield,15,Cereals,1996,24828,Fc,Calculated data
+4,4,QC,Crops,100,India,5419,Yield,15,Cereals,1997,26789,Fc,Calculated data
+5,5,QC,Crops,100,India,5419,Yield,15,Cereals,1998,24852,Fc,Calculated data
+6,6,QC,Crops,100,India,5419,Yield,15,Cereals,1999,25901,Fc,Calculated data
+7,7,QC,Crops,100,India,5419,Yield,15,Cereals,2000,27785,Fc,Calculated data
+8,8,QC,Crops,100,India,5419,Yield,15,Cereals,2001,27081,Fc,Calculated data
+9,9,QC,Crops,100,India,5419,Yield,15,Cereals,2002,27621,Fc,Calculated data
+10,10,QC,Crops,100,India,5419,Yield,15,Cereals,2003,26100,Fc,Calculated data
+11,11,QC,Crops,100,India,5419,Yield,15,Cereals,2004,27132,Fc,Calculated data
+12,12,QC,Crops,100,India,5419,Yield,15,Cereals,2005,26016,Fc,Calculated data
+13,13,QC,Crops,100,India,5419,Yield,15,Cereals,2006,26188,Fc,Calculated data
+14,14,QC,Crops,100,India,5419,Yield,15,Cereals,2007,27079,Fc,Calculated data
+15,15,QC,Crops,100,India,5419,Yield,15,Cereals,2008,28022,Fc,Calculated data
+16,16,QC,Crops,100,India,5419,Yield,15,Cereals,2009,29071,Fc,Calculated data
+17,17,QC,Crops,100,India,5419,Yield,15,Cereals,2010,28395,Fc,Calculated data
+18,18,QC,Crops,100,India,5419,Yield,15,Cereals,2011,29886,Fc,Calculated data
+19,19,QC,Crops,100,India,5419,Yield,15,Cereals,2012,31775,Fc,Calculated data
+20,20,QC,Crops,100,India,5419,Yield,15,Cereals,2013,31538,Fc,Calculated data
+21,21,QC,Crops,100,India,5419,Yield,15,Cereals,2014,30295,Fc,Calculated data
+22,22,QC,Crops,100,India,5419,Yield,27,Cereals,1994,28645,Fc,Calculated data
+23,23,QC,Crops,100,India,5419,Yield,27,Cereals,1995,26972,Fc,Calculated data
+24,24,QC,Crops,100,India,5419,Yield,27,Cereals,1996,28226,Fc,Calculated data
+25,25,QC,Crops,100,India,5419,Yield,27,Cereals,1997,28457,Fc,Calculated data
+26,26,QC,Crops,100,India,5419,Yield,27,Cereals,1998,28805,Fc,Calculated data
+27,27,QC,Crops,100,India,5419,Yield,27,Cereals,1999,29782,Fc,Calculated data
+28,28,QC,Crops,100,India,5419,Yield,27,Cereals,2000,28508,Fc,Calculated data
+29,29,QC,Crops,100,India,5419,Yield,27,Cereals,2001,31158,Fc,Calculated data
+30,30,QC,Crops,100,India,5419,Yield,27,Cereals,2002,26163,Fc,Calculated data
+31,31,QC,Crops,100,India,5419,Yield,27,Cereals,2003,31177,Fc,Calculated data
+32,32,QC,Crops,100,India,5419,Yield,27,Cereals,2004,29756,Fc,Calculated data
+33,33,QC,Crops,100,India,5419,Yield,27,Cereals,2005,31537,Fc,Calculated data
+34,34,QC,Crops,100,India,5419,Yield,27,Cereals,2006,31759,Fc,Calculated data
+35,35,QC,Crops,100,India,5419,Yield,27,Cereals,2007,32924,Fc,Calculated data
+36,36,QC,Crops,100,India,5419,Yield,27,Cereals,2008,32509,Fc,Calculated data
+37,37,QC,Crops,100,India,5419,Yield,27,Cereals,2009,32366,Fc,Calculated data
+38,38,QC,Crops,100,India,5419,Yield,27,Cereals,2010,33587,Fc,Calculated data
+39,39,QC,Crops,100,India,5419,Yield,27,Cereals,2011,35878,Fc,Calculated data
+40,40,QC,Crops,100,India,5419,Yield,27,Cereals,2012,36912,Fc,Calculated data
+41,41,QC,Crops,100,India,5419,Yield,27,Cereals,2013,36223,Fc,Calculated data
+42,42,QC,Crops,100,India,5419,Yield,27,Cereals,2014,36221,Fc,Calculated data
+43,43,QC,Crops,100,India,5419,Yield,44,Coarse Grains,1994,16531,Fc,Calculated data
+44,44,QC,Crops,100,India,5419,Yield,44,Coarse Grains,1995,14403,Fc,Calculated data
+45,45,QC,Crops,100,India,5419,Yield,44,Coarse Grains,1996,18325,Fc,Calculated data
+46,46,QC,Crops,100,India,5419,Yield,44,Coarse Grains,1997,19303,Fc,Calculated data
+47,47,QC,Crops,100,India,5419,Yield,44,Coarse Grains,1998,19578,Fc,Calculated data
+48,48,QC,Crops,100,India,5419,Yield,44,Coarse Grains,1999,19397,Fc,Calculated data
+49,49,QC,Crops,100,India,5419,Yield,44,Coarse Grains,2000,19972,Fc,Calculated data
+50,50,QC,Crops,100,India,5419,Yield,44,Coarse Grains,2001,18400,Fc,Calculated data
+51,51,QC,Crops,100,India,5419,Yield,44,Coarse Grains,2002,21600,Fc,Calculated data
+52,52,QC,Crops,100,India,5419,Yield,44,Coarse Grains,2003,20060,Fc,Calculated data
+53,53,QC,Crops,100,India,5419,Yield,44,Coarse Grains,2004,19750,Fc,Calculated data
+54,54,QC,Crops,100,India,5419,Yield,44,Coarse Grains,2005,19580,Fc,Calculated data
+55,55,QC,Crops,100,India,5419,Yield,44,Coarse Grains,2006,19378,Fc,Calculated data
+56,56,QC,Crops,100,India,5419,Yield,44,Coarse Grains,2007,20582,Fc,Calculated data
+57,57,QC,Crops,100,India,5419,Yield,44,Coarse Grains,2008,19914,Fc,Calculated data
+58,58,QC,Crops,100,India,5419,Yield,44,Coarse Grains,2009,23935,Fc,Calculated data
+59,59,QC,Crops,100,India,5419,Yield,44,Coarse Grains,2010,21717,Fc,Calculated data
+60,60,QC,Crops,100,India,5419,Yield,44,Coarse Grains,2011,23574,Fc,Calculated data
+61,61,QC,Crops,100,India,5419,Yield,44,Coarse Grains,2012,21039,Fc,Calculated data
+62,62,QC,Crops,100,India,5419,Yield,44,Coarse Grains,2013,22436,Fc,Calculated data
+63,63,QC,Crops,100,India,5419,Yield,44,Coarse Grains,2014,22593,Fc,Calculated data
+64,64,QC,Crops,100,India,5419,Yield,56,Coarse Grains,1994,14480,Fc,Calculated data
+65,65,QC,Crops,100,India,5419,Yield,56,Coarse Grains,1995,15946,Fc,Calculated data
+66,66,QC,Crops,100,India,5419,Yield,56,Coarse Grains,1996,17094,Fc,Calculated data
+67,67,QC,Crops,100,India,5419,Yield,56,Coarse Grains,1997,17111,Fc,Calculated data
+68,68,QC,Crops,100,India,5419,Yield,56,Coarse Grains,1998,17969,Fc,Calculated data
+69,69,QC,Crops,100,India,5419,Yield,56,Coarse Grains,1999,17922,Fc,Calculated data
+70,70,QC,Crops,100,India,5419,Yield,56,Coarse Grains,2000,18216,Fc,Calculated data
+71,71,QC,Crops,100,India,5419,Yield,56,Coarse Grains,2001,19996,Fc,Calculated data
+72,72,QC,Crops,100,India,5419,Yield,56,Coarse Grains,2002,16807,Fc,Calculated data
+73,73,QC,Crops,100,India,5419,Yield,56,Coarse Grains,2003,20405,Fc,Calculated data
+74,74,QC,Crops,100,India,5419,Yield,56,Coarse Grains,2004,19073,Fc,Calculated data
+75,75,QC,Crops,100,India,5419,Yield,56,Coarse Grains,2005,19385,Fc,Calculated data
+76,76,QC,Crops,100,India,5419,Yield,56,Coarse Grains,2006,19125,Fc,Calculated data
+77,77,QC,Crops,100,India,5419,Yield,56,Coarse Grains,2007,23352,Fc,Calculated data
+78,78,QC,Crops,100,India,5419,Yield,56,Coarse Grains,2008,24140,Fc,Calculated data
+79,79,QC,Crops,100,India,5419,Yield,56,Coarse Grains,2009,20238,Fc,Calculated data
+80,80,QC,Crops,100,India,5419,Yield,56,Coarse Grains,2010,25401,Fc,Calculated data
+81,81,QC,Crops,100,India,5419,Yield,56,Coarse Grains,2011,24784,Fc,Calculated data
+82,82,QC,Crops,100,India,5419,Yield,56,Coarse Grains,2012,25557,Fc,Calculated data
+83,83,QC,Crops,100,India,5419,Yield,56,Coarse Grains,2013,24698,Fc,Calculated data
+84,84,QC,Crops,100,India,5419,Yield,56,Coarse Grains,2014,27523,Fc,Calculated data
+85,85,QC,Crops,100,India,5419,Yield,79,Coarse Grains,1994,7475,Fc,Calculated data
+86,86,QC,Crops,100,India,5419,Yield,79,Coarse Grains,1995,6790,Fc,Calculated data
+87,87,QC,Crops,100,India,5419,Yield,79,Coarse Grains,1996,8186,Fc,Calculated data
+88,88,QC,Crops,100,India,5419,Yield,79,Coarse Grains,1997,8073,Fc,Calculated data
+89,89,QC,Crops,100,India,5419,Yield,79,Coarse Grains,1998,8155,Fc,Calculated data
+90,90,QC,Crops,100,India,5419,Yield,79,Coarse Grains,1999,7277,Fc,Calculated data
+91,91,QC,Crops,100,India,5419,Yield,79,Coarse Grains,2000,7745,Fc,Calculated data
+92,92,QC,Crops,100,India,5419,Yield,79,Coarse Grains,2001,8998,Fc,Calculated data
+93,93,QC,Crops,100,India,5419,Yield,79,Coarse Grains,2002,6271,Fc,Calculated data
+94,94,QC,Crops,100,India,5419,Yield,79,Coarse Grains,2003,10868,Fc,Calculated data
+95,95,QC,Crops,100,India,5419,Yield,79,Coarse Grains,2004,9121,Fc,Calculated data
+96,96,QC,Crops,100,India,5419,Yield,79,Coarse Grains,2005,8629,Fc,Calculated data
+97,97,QC,Crops,100,India,5419,Yield,79,Coarse Grains,2006,8804,Fc,Calculated data
+98,98,QC,Crops,100,India,5419,Yield,79,Coarse Grains,2007,10836,Fc,Calculated data
+99,99,QC,Crops,100,India,5419,Yield,79,Coarse Grains,2008,10301,Fc,Calculated data
+100,100,QC,Crops,100,India,5419,Yield,79,Coarse Grains,2009,7977,Fc,Calculated data
+101,101,QC,Crops,100,India,5419,Yield,79,Coarse Grains,2010,11273,Fc,Calculated data
+102,102,QC,Crops,100,India,5419,Yield,79,Coarse Grains,2011,11854,Fc,Calculated data
+103,103,QC,Crops,100,India,5419,Yield,79,Coarse Grains,2012,11813,Fc,Calculated data
+104,104,QC,Crops,100,India,5419,Yield,79,Coarse Grains,2013,11859,Fc,Calculated data
+105,105,QC,Crops,100,India,5419,Yield,79,Coarse Grains,2014,12977,Fc,Calculated data
+106,106,QC,Crops,100,India,5419,Yield,83,Coarse Grains,1994,7786,Fc,Calculated data
+107,107,QC,Crops,100,India,5419,Yield,83,Coarse Grains,1995,8235,Fc,Calculated data
+108,108,QC,Crops,100,India,5419,Yield,83,Coarse Grains,1996,9591,Fc,Calculated data
+109,109,QC,Crops,100,India,5419,Yield,83,Coarse Grains,1997,6920,Fc,Calculated data
+110,110,QC,Crops,100,India,5419,Yield,83,Coarse Grains,1998,8592,Fc,Calculated data
+111,111,QC,Crops,100,India,5419,Yield,83,Coarse Grains,1999,8472,Fc,Calculated data
+112,112,QC,Crops,100,India,5419,Yield,83,Coarse Grains,2000,7639,Fc,Calculated data
+113,113,QC,Crops,100,India,5419,Yield,83,Coarse Grains,2001,7715,Fc,Calculated data
+114,114,QC,Crops,100,India,5419,Yield,83,Coarse Grains,2002,7602,Fc,Calculated data
+115,115,QC,Crops,100,India,5419,Yield,83,Coarse Grains,2003,7540,Fc,Calculated data
+116,116,QC,Crops,100,India,5419,Yield,83,Coarse Grains,2004,7161,Fc,Calculated data
+117,117,QC,Crops,100,India,5419,Yield,83,Coarse Grains,2005,7968,Fc,Calculated data
+118,118,QC,Crops,100,India,5419,Yield,83,Coarse Grains,2006,8803,Fc,Calculated data
+119,119,QC,Crops,100,India,5419,Yield,83,Coarse Grains,2007,8443,Fc,Calculated data
+120,120,QC,Crops,100,India,5419,Yield,83,Coarse Grains,2008,10209,Fc,Calculated data
+121,121,QC,Crops,100,India,5419,Yield,83,Coarse Grains,2009,9621,Fc,Calculated data
+122,122,QC,Crops,100,India,5419,Yield,83,Coarse Grains,2010,8602,Fc,Calculated data
+123,123,QC,Crops,100,India,5419,Yield,83,Coarse Grains,2011,9487,Fc,Calculated data
+124,124,QC,Crops,100,India,5419,Yield,83,Coarse Grains,2012,9568,Fc,Calculated data
+125,125,QC,Crops,100,India,5419,Yield,83,Coarse Grains,2013,8544,Fc,Calculated data
+126,126,QC,Crops,100,India,5419,Yield,83,Coarse Grains,2014,9261,Fc,Calculated data
+127,127,QC,Crops,100,India,5419,Yield,176,commercial Crops,1994,3657,Fc,Calculated data
+128,128,QC,Crops,100,India,5419,Yield,176,commercial Crops,1995,4391,Fc,Calculated data
+129,129,QC,Crops,100,India,5419,Yield,176,commercial Crops,1996,4168,Fc,Calculated data
+130,130,QC,Crops,100,India,5419,Yield,176,commercial Crops,1997,3511,Fc,Calculated data
+131,131,QC,Crops,100,India,5419,Yield,176,commercial Crops,1998,3459,Fc,Calculated data
+132,132,QC,Crops,100,India,5419,Yield,176,commercial Crops,1999,4800,Fc,Calculated data
+133,133,QC,Crops,100,India,5419,Yield,176,commercial Crops,2000,4871,Fc,Calculated data
+134,134,QC,Crops,100,India,5419,Yield,176,commercial Crops,2001,5476,Fc,Calculated data
+135,135,QC,Crops,100,India,5419,Yield,176,commercial Crops,2002,3335,Fc,Calculated data
+136,136,QC,Crops,100,India,5419,Yield,176,commercial Crops,2003,4562,Fc,Calculated data
+137,137,QC,Crops,100,India,5419,Yield,176,commercial Crops,2004,3284,Fc,Calculated data
+138,138,QC,Crops,100,India,5419,Yield,176,commercial Crops,2005,3269,Fc,Calculated data
+139,139,QC,Crops,100,India,5419,Yield,176,commercial Crops,2006,3825,Fc,Calculated data
+140,140,QC,Crops,100,India,5419,Yield,176,commercial Crops,2007,3930,Fc,Calculated data
+141,141,QC,Crops,100,India,5419,Yield,176,commercial Crops,2008,3763,Fc,Calculated data
+142,142,QC,Crops,100,India,5419,Yield,176,commercial Crops,2009,4050,Fc,Calculated data
+143,143,QC,Crops,100,India,5419,Yield,176,commercial Crops,2010,4445,Fc,Calculated data
+144,144,QC,Crops,100,India,5419,Yield,176,commercial Crops,2011,3936,Fc,Calculated data
+145,145,QC,Crops,100,India,5419,Yield,176,commercial Crops,2012,4077,Fc,Calculated data
+146,146,QC,Crops,100,India,5419,Yield,176,commercial Crops,2013,3989,Fc,Calculated data
+147,147,QC,Crops,100,India,5419,Yield,176,commercial Crops,2014,42110,Fc,Calculated data
+148,148,QC,Crops,100,India,5419,Yield,187,commercial Crops,1994,9266,Fc,Calculated data
+149,149,QC,Crops,100,India,5419,Yield,187,commercial Crops,1995,8791,Fc,Calculated data
+150,150,QC,Crops,100,India,5419,Yield,187,commercial Crops,1996,8361,Fc,Calculated data
+151,151,QC,Crops,100,India,5419,Yield,187,commercial Crops,1997,9866,Fc,Calculated data
+152,152,QC,Crops,100,India,5419,Yield,187,commercial Crops,1998,8915,Fc,Calculated data
+153,153,QC,Crops,100,India,5419,Yield,187,commercial Crops,1999,8451,Fc,Calculated data
+154,154,QC,Crops,100,India,5419,Yield,187,commercial Crops,2000,10294,Fc,Calculated data
+155,155,QC,Crops,100,India,5419,Yield,187,commercial Crops,2001,8602,Fc,Calculated data
+156,156,QC,Crops,100,India,5419,Yield,187,commercial Crops,2002,9065,Fc,Calculated data
+157,157,QC,Crops,100,India,5419,Yield,187,commercial Crops,2003,8914,Fc,Calculated data
+158,158,QC,Crops,100,India,5419,Yield,187,commercial Crops,2004,10221,Fc,Calculated data
+159,159,QC,Crops,100,India,5419,Yield,187,commercial Crops,2005,9929,Fc,Calculated data
+160,160,QC,Crops,100,India,5419,Yield,187,commercial Crops,2006,9127,Fc,Calculated data
+161,161,QC,Crops,100,India,5419,Yield,187,commercial Crops,2007,10494,Fc,Calculated data
+162,162,QC,Crops,100,India,5419,Yield,187,commercial Crops,2008,11029,Fc,Calculated data
+163,163,QC,Crops,100,India,5419,Yield,187,commercial Crops,2009,9163,Fc,Calculated data
+164,164,QC,Crops,100,India,5419,Yield,187,commercial Crops,2010,8827,Fc,Calculated data
+165,165,QC,Crops,100,India,5419,Yield,187,commercial Crops,2011,8157,Fc,Calculated data
+166,166,QC,Crops,100,India,5419,Yield,187,commercial Crops,2012,8503,Fc,Calculated data
+167,167,QC,Crops,100,India,5419,Yield,187,commercial Crops,2013,8219,Fc,Calculated data
+168,168,QC,Crops,100,India,5419,Yield,187,commercial Crops,2014,10219,Fc,Calculated data
+169,169,QC,Crops,100,India,5419,Yield,191,Coarse Grains,1994,7833,Fc,Calculated data
+170,170,QC,Crops,100,India,5419,Yield,191,Coarse Grains,1995,8532,Fc,Calculated data
+171,171,QC,Crops,100,India,5419,Yield,191,Coarse Grains,1996,6997,Fc,Calculated data
+172,172,QC,Crops,100,India,5419,Yield,191,Coarse Grains,1997,8129,Fc,Calculated data
+173,173,QC,Crops,100,India,5419,Yield,191,Coarse Grains,1998,8108,Fc,Calculated data
+174,174,QC,Crops,100,India,5419,Yield,191,Coarse Grains,1999,8030,Fc,Calculated data
+175,175,QC,Crops,100,India,5419,Yield,191,Coarse Grains,2000,8327,Fc,Calculated data
+176,176,QC,Crops,100,India,5419,Yield,191,Coarse Grains,2001,7435,Fc,Calculated data
+177,177,QC,Crops,100,India,5419,Yield,191,Coarse Grains,2002,8530,Fc,Calculated data
+178,178,QC,Crops,100,India,5419,Yield,191,Coarse Grains,2003,7173,Fc,Calculated data
+179,179,QC,Crops,100,India,5419,Yield,191,Coarse Grains,2004,8112,Fc,Calculated data
+180,180,QC,Crops,100,India,5419,Yield,191,Coarse Grains,2005,8146,Fc,Calculated data
+181,181,QC,Crops,100,India,5419,Yield,191,Coarse Grains,2006,8085,Fc,Calculated data
+182,182,QC,Crops,100,India,5419,Yield,191,Coarse Grains,2007,8452,Fc,Calculated data
+183,183,QC,Crops,100,India,5419,Yield,191,Coarse Grains,2008,7620,Fc,Calculated data
+184,184,QC,Crops,100,India,5419,Yield,191,Coarse Grains,2009,8948,Fc,Calculated data
+185,185,QC,Crops,100,India,5419,Yield,191,Coarse Grains,2010,9155,Fc,Calculated data
+186,186,QC,Crops,100,India,5419,Yield,191,Coarse Grains,2011,8945,Fc,Calculated data
+187,187,QC,Crops,100,India,5419,Yield,191,Coarse Grains,2012,9255,Fc,Calculated data
+188,188,QC,Crops,100,India,5419,Yield,191,Coarse Grains,2013,9201,Fc,Calculated data
+189,189,QC,Crops,100,India,5419,Yield,191,Coarse Grains,2014,9199,Fc,Calculated data
+190,190,QC,Crops,100,India,5419,Yield,197,commercial Crops,1994,7622,Fc,Calculated data
+191,191,QC,Crops,100,India,5419,Yield,197,commercial Crops,1995,6470,Fc,Calculated data
+192,192,QC,Crops,100,India,5419,Yield,197,commercial Crops,1996,6699,Fc,Calculated data
+193,193,QC,Crops,100,India,5419,Yield,197,commercial Crops,1997,7559,Fc,Calculated data
+194,194,QC,Crops,100,India,5419,Yield,197,commercial Crops,1998,5507,Fc,Calculated data
+195,195,QC,Crops,100,India,5419,Yield,197,commercial Crops,1999,7874,Fc,Calculated data
+196,196,QC,Crops,100,India,5419,Yield,197,commercial Crops,2000,7861,Fc,Calculated data
+197,197,QC,Crops,100,India,5419,Yield,197,commercial Crops,2001,6185,Fc,Calculated data
+198,198,QC,Crops,100,India,5419,Yield,197,commercial Crops,2002,6791,Fc,Calculated data
+199,199,QC,Crops,100,India,5419,Yield,197,commercial Crops,2003,6507,Fc,Calculated data
+200,200,QC,Crops,100,India,5419,Yield,197,commercial Crops,2004,6674,Fc,Calculated data
+201,201,QC,Crops,100,India,5419,Yield,197,commercial Crops,2005,6670,Fc,Calculated data
+202,202,QC,Crops,100,India,5419,Yield,197,commercial Crops,2006,7647,Fc,Calculated data
+203,203,QC,Crops,100,India,5419,Yield,197,commercial Crops,2007,6497,Fc,Calculated data
+204,204,QC,Crops,100,India,5419,Yield,197,commercial Crops,2008,8250,Fc,Calculated data
+205,205,QC,Crops,100,India,5419,Yield,197,commercial Crops,2009,6716,Fc,Calculated data
+206,206,QC,Crops,100,India,5419,Yield,197,commercial Crops,2010,7089,Fc,Calculated data
+207,207,QC,Crops,100,India,5419,Yield,197,commercial Crops,2011,6471,Fc,Calculated data
+208,208,QC,Crops,100,India,5419,Yield,197,commercial Crops,2012,6559,Fc,Calculated data
+209,209,QC,Crops,100,India,5419,Yield,197,commercial Crops,2013,6500,Fc,Calculated data
+210,210,QC,Crops,100,India,5419,Yield,197,commercial Crops,2014,71499,Fc,Calculated data
+211,211,QC,Crops,100,India,5419,Yield,201,Lentils,1994,6321,Fc,Calculated data
+212,212,QC,Crops,100,India,5419,Yield,201,Lentils,1995,6781,Fc,Calculated data
+213,213,QC,Crops,100,India,5419,Yield,201,Lentils,1996,5685,Fc,Calculated data
+214,214,QC,Crops,100,India,5419,Yield,201,Lentils,1997,7025,Fc,Calculated data
+215,215,QC,Crops,100,India,5419,Yield,201,Lentils,1998,6240,Fc,Calculated data
+216,216,QC,Crops,100,India,5419,Yield,201,Lentils,1999,6754,Fc,Calculated data
+217,217,QC,Crops,100,India,5419,Yield,201,Lentils,2000,7382,Fc,Calculated data
+218,218,QC,Crops,100,India,5419,Yield,201,Lentils,2001,6193,Fc,Calculated data
+219,219,QC,Crops,100,India,5419,Yield,201,Lentils,2002,6629,Fc,Calculated data
+220,220,QC,Crops,100,India,5419,Yield,201,Lentils,2003,6328,Fc,Calculated data
+221,221,QC,Crops,100,India,5419,Yield,201,Lentils,2004,7413,Fc,Calculated data
+222,222,QC,Crops,100,India,5419,Yield,201,Lentils,2005,6763,Fc,Calculated data
+223,223,QC,Crops,100,India,5419,Yield,201,Lentils,2006,6266,Fc,Calculated data
+224,224,QC,Crops,100,India,5419,Yield,201,Lentils,2007,6190,Fc,Calculated data
+225,225,QC,Crops,100,India,5419,Yield,201,Lentils,2008,6183,Fc,Calculated data
+226,226,QC,Crops,100,India,5419,Yield,201,Lentils,2009,6929,Fc,Calculated data
+227,227,QC,Crops,100,India,5419,Yield,201,Lentils,2010,6973,Fc,Calculated data
+228,228,QC,Crops,100,India,5419,Yield,201,Lentils,2011,5908,Fc,Calculated data
+229,229,QC,Crops,100,India,5419,Yield,201,Lentils,2012,5998,Fc,Calculated data
+230,230,QC,Crops,100,India,5419,Yield,201,Lentils,2013,6000,Fc,Calculated data
+231,231,QC,Crops,100,India,5419,Yield,201,Lentils,2014,6111,Fc,Calculated data
+232,232,QC,Crops,100,India,5419,Yield,211,Pulses,1994,5917,Fc,Calculated data
+233,233,QC,Crops,100,India,5419,Yield,211,Pulses,1995,6580,Fc,Calculated data
+234,234,QC,Crops,100,India,5419,Yield,211,Pulses,1996,5611,Fc,Calculated data
+235,235,QC,Crops,100,India,5419,Yield,211,Pulses,1997,6600,Fc,Calculated data
+236,236,QC,Crops,100,India,5419,Yield,211,Pulses,1998,5363,Fc,Calculated data
+237,237,QC,Crops,100,India,5419,Yield,211,Pulses,1999,6222,Fc,Calculated data
+238,238,QC,Crops,100,India,5419,Yield,211,Pulses,2000,6444,Fc,Calculated data
+239,239,QC,Crops,100,India,5419,Yield,211,Pulses,2001,7879,Fc,Calculated data
+240,240,QC,Crops,100,India,5419,Yield,211,Pulses,2002,5882,Fc,Calculated data
+241,241,QC,Crops,100,India,5419,Yield,211,Pulses,2003,4622,Fc,Calculated data
+242,242,QC,Crops,100,India,5419,Yield,211,Pulses,2004,5512,Fc,Calculated data
+243,243,QC,Crops,100,India,5419,Yield,211,Pulses,2005,4379,Fc,Calculated data
+244,244,QC,Crops,100,India,5419,Yield,211,Pulses,2006,4904,Fc,Calculated data
+245,245,QC,Crops,100,India,5419,Yield,211,Pulses,2007,4667,Fc,Calculated data
+246,246,QC,Crops,100,India,5419,Yield,211,Pulses,2008,4188,Fc,Calculated data
+247,247,QC,Crops,100,India,5419,Yield,211,Pulses,2009,4321,Fc,Calculated data
+248,248,QC,Crops,100,India,5419,Yield,211,Pulses,2010,4242,Fc,Calculated data
+249,249,QC,Crops,100,India,5419,Yield,211,Pulses,2011,4118,Fc,Calculated data
+250,250,QC,Crops,100,India,5419,Yield,211,Pulses,2012,4364,Fc,Calculated data
+251,251,QC,Crops,100,India,5419,Yield,211,Pulses,2013,4964,Fc,Calculated data
+252,252,QC,Crops,100,India,5419,Yield,211,Pulses,2014,4545,Fc,Calculated data
+253,253,QC,Crops,100,India,5419,Yield,217,Dry Fruits,1994,6195,Fc,Calculated data
+254,254,QC,Crops,100,India,5419,Yield,217,Dry Fruits,1995,5574,Fc,Calculated data
+255,255,QC,Crops,100,India,5419,Yield,217,Dry Fruits,1996,6580,Fc,Calculated data
+256,256,QC,Crops,100,India,5419,Yield,217,Dry Fruits,1997,6525,Fc,Calculated data
+257,257,QC,Crops,100,India,5419,Yield,217,Dry Fruits,1998,5333,Fc,Calculated data
+258,258,QC,Crops,100,India,5419,Yield,217,Dry Fruits,1999,6516,Fc,Calculated data
+259,259,QC,Crops,100,India,5419,Yield,217,Dry Fruits,2000,7580,Fc,Calculated data
+260,260,QC,Crops,100,India,5419,Yield,217,Dry Fruits,2001,6429,Fc,Calculated data
+261,261,QC,Crops,100,India,5419,Yield,217,Dry Fruits,2002,6267,Fc,Calculated data
+262,262,QC,Crops,100,India,5419,Yield,217,Dry Fruits,2003,6494,Fc,Calculated data
+263,263,QC,Crops,100,India,5419,Yield,217,Dry Fruits,2004,6859,Fc,Calculated data
+264,264,QC,Crops,100,India,5419,Yield,217,Dry Fruits,2005,6634,Fc,Calculated data
+265,265,QC,Crops,100,India,5419,Yield,217,Dry Fruits,2006,6846,Fc,Calculated data
+266,266,QC,Crops,100,India,5419,Yield,217,Dry Fruits,2007,7260,Fc,Calculated data
+267,267,QC,Crops,100,India,5419,Yield,217,Dry Fruits,2008,7661,Fc,Calculated data
+268,268,QC,Crops,100,India,5419,Yield,217,Dry Fruits,2009,7783,Fc,Calculated data
+269,269,QC,Crops,100,India,5419,Yield,217,Dry Fruits,2010,6641,Fc,Calculated data
+270,270,QC,Crops,100,India,5419,Yield,217,Dry Fruits,2011,7077,Fc,Calculated data
+271,271,QC,Crops,100,India,5419,Yield,217,Dry Fruits,2012,7406,Fc,Calculated data
+272,272,QC,Crops,100,India,5419,Yield,217,Dry Fruits,2013,7591,Fc,Calculated data
+273,273,QC,Crops,100,India,5419,Yield,222,Dry Fruits,1994,9859,Fc,Calculated data
+274,274,QC,Crops,100,India,5419,Yield,222,Dry Fruits,1995,8681,Fc,Calculated data
+275,275,QC,Crops,100,India,5419,Yield,222,Dry Fruits,1996,9959,Fc,Calculated data
+276,276,QC,Crops,100,India,5419,Yield,222,Dry Fruits,1997,8013,Fc,Calculated data
+277,277,QC,Crops,100,India,5419,Yield,222,Dry Fruits,1998,10017,Fc,Calculated data
+278,278,QC,Crops,100,India,5419,Yield,222,Dry Fruits,1999,9241,Fc,Calculated data
+279,279,QC,Crops,100,India,5419,Yield,222,Dry Fruits,2000,10265,Fc,Calculated data
+280,280,QC,Crops,100,India,5419,Yield,222,Dry Fruits,2001,9603,Fc,Calculated data
+281,281,QC,Crops,100,India,5419,Yield,222,Dry Fruits,2002,9934,Fc,Calculated data
+282,282,QC,Crops,100,India,5419,Yield,222,Dry Fruits,2003,10164,Fc,Calculated data
+283,283,QC,Crops,100,India,5419,Yield,222,Dry Fruits,2004,11148,Fc,Calculated data
+284,284,QC,Crops,100,India,5419,Yield,222,Dry Fruits,2005,10390,Fc,Calculated data
+285,285,QC,Crops,100,India,5419,Yield,222,Dry Fruits,2006,11688,Fc,Calculated data
+286,286,QC,Crops,100,India,5419,Yield,222,Dry Fruits,2007,10714,Fc,Calculated data
+287,287,QC,Crops,100,India,5419,Yield,222,Dry Fruits,2008,12013,Fc,Calculated data
+288,288,QC,Crops,100,India,5419,Yield,222,Dry Fruits,2009,11688,Fc,Calculated data
+289,289,QC,Crops,100,India,5419,Yield,222,Dry Fruits,2010,12338,Fc,Calculated data
+290,290,QC,Crops,100,India,5419,Yield,222,Dry Fruits,2011,11688,Fc,Calculated data
+291,291,QC,Crops,100,India,5419,Yield,222,Dry Fruits,2012,12698,Fc,Calculated data
+292,292,QC,Crops,100,India,5419,Yield,222,Dry Fruits,2013,11613,Fc,Calculated data
+293,293,QC,Crops,100,India,5419,Yield,226,Dry Fruits,1994,11512,Fc,Calculated data
+294,294,QC,Crops,100,India,5419,Yield,226,Dry Fruits,1995,11878,Fc,Calculated data
+295,295,QC,Crops,100,India,5419,Yield,226,Dry Fruits,1996,11588,Fc,Calculated data
+296,296,QC,Crops,100,India,5419,Yield,226,Dry Fruits,1997,11780,Fc,Calculated data
+297,297,QC,Crops,100,India,5419,Yield,226,Dry Fruits,1998,12426,Fc,Calculated data
+298,298,QC,Crops,100,India,5419,Yield,226,Dry Fruits,1999,11071,Fc,Calculated data
+299,299,QC,Crops,100,India,5419,Yield,226,Dry Fruits,2000,11379,Fc,Calculated data
+300,300,QC,Crops,100,India,5419,Yield,226,Dry Fruits,2001,11379,Fc,Calculated data
+301,301,QC,Crops,100,India,5419,Yield,226,Dry Fruits,2002,13793,Fc,Calculated data
+302,302,QC,Crops,100,India,5419,Yield,226,Dry Fruits,2003,11769,Fc,Calculated data
+303,303,QC,Crops,100,India,5419,Yield,226,Dry Fruits,2004,12033,Fc,Calculated data
+304,304,QC,Crops,100,India,5419,Yield,226,Dry Fruits,2005,12427,Fc,Calculated data
+305,305,QC,Crops,100,India,5419,Yield,226,Dry Fruits,2006,12676,Fc,Calculated data
+306,306,QC,Crops,100,India,5419,Yield,226,Dry Fruits,2007,12629,Fc,Calculated data
+307,307,QC,Crops,100,India,5419,Yield,226,Dry Fruits,2008,12312,Fc,Calculated data
+308,308,QC,Crops,100,India,5419,Yield,226,Dry Fruits,2009,12433,Fc,Calculated data
+309,309,QC,Crops,100,India,5419,Yield,226,Dry Fruits,2010,11947,Fc,Calculated data
+310,310,QC,Crops,100,India,5419,Yield,226,Dry Fruits,2011,11947,Fc,Calculated data
+311,311,QC,Crops,100,India,5419,Yield,226,Dry Fruits,2012,14677,Fc,Calculated data
+312,312,QC,Crops,100,India,5419,Yield,226,Dry Fruits,2013,13655,Fc,Calculated data
+313,313,QC,Crops,100,India,5419,Yield,236,Coarse Grains,1994,9106,Fc,Calculated data
+314,314,QC,Crops,100,India,5419,Yield,236,Coarse Grains,1995,10121,Fc,Calculated data
+315,315,QC,Crops,100,India,5419,Yield,236,Coarse Grains,1996,10319,Fc,Calculated data
+316,316,QC,Crops,100,India,5419,Yield,236,Coarse Grains,1997,10789,Fc,Calculated data
+317,317,QC,Crops,100,India,5419,Yield,236,Coarse Grains,1998,11001,Fc,Calculated data
+318,318,QC,Crops,100,India,5419,Yield,236,Coarse Grains,1999,11380,Fc,Calculated data
+319,319,QC,Crops,100,India,5419,Yield,236,Coarse Grains,2000,8222,Fc,Calculated data
+320,320,QC,Crops,100,India,5419,Yield,236,Coarse Grains,2001,9400,Fc,Calculated data
+321,321,QC,Crops,100,India,5419,Yield,236,Coarse Grains,2002,7624,Fc,Calculated data
+322,322,QC,Crops,100,India,5419,Yield,236,Coarse Grains,2003,11929,Fc,Calculated data
+323,323,QC,Crops,100,India,5419,Yield,236,Coarse Grains,2004,9082,Fc,Calculated data
+324,324,QC,Crops,100,India,5419,Yield,236,Coarse Grains,2005,10734,Fc,Calculated data
+325,325,QC,Crops,100,India,5419,Yield,236,Coarse Grains,2006,10628,Fc,Calculated data
+326,326,QC,Crops,100,India,5419,Yield,236,Coarse Grains,2007,12351,Fc,Calculated data
+327,327,QC,Crops,100,India,5419,Yield,236,Coarse Grains,2008,10415,Fc,Calculated data
+328,328,QC,Crops,100,India,5419,Yield,236,Coarse Grains,2009,10236,Fc,Calculated data
+329,329,QC,Crops,100,India,5419,Yield,236,Coarse Grains,2010,13330,Fc,Calculated data
+330,330,QC,Crops,100,India,5419,Yield,236,Coarse Grains,2011,11998,Fc,Calculated data
+331,331,QC,Crops,100,India,5419,Yield,236,Coarse Grains,2012,13530,Fc,Calculated data
+332,332,QC,Crops,100,India,5419,Yield,236,Coarse Grains,2013,9793,Fc,Calculated data
+333,333,QC,Crops,100,India,5419,Yield,236,Coarse Grains,2014,9652,Fc,Calculated data
+334,334,QC,Crops,100,India,5419,Yield,242,Coarse Grains,1994,10271,Fc,Calculated data
+335,335,QC,Crops,100,India,5419,Yield,242,Coarse Grains,1995,10073,Fc,Calculated data
+336,336,QC,Crops,100,India,5419,Yield,242,Coarse Grains,1996,11378,Fc,Calculated data
+337,337,QC,Crops,100,India,5419,Yield,242,Coarse Grains,1997,10395,Fc,Calculated data
+338,338,QC,Crops,100,India,5419,Yield,242,Coarse Grains,1998,12144,Fc,Calculated data
+339,339,QC,Crops,100,India,5419,Yield,242,Coarse Grains,1999,7657,Fc,Calculated data
+340,340,QC,Crops,100,India,5419,Yield,242,Coarse Grains,2000,9881,Fc,Calculated data
+341,341,QC,Crops,100,India,5419,Yield,242,Coarse Grains,2001,11265,Fc,Calculated data
+342,342,QC,Crops,100,India,5419,Yield,242,Coarse Grains,2002,6943,Fc,Calculated data
+343,343,QC,Crops,100,India,5419,Yield,242,Coarse Grains,2003,13574,Fc,Calculated data
+344,344,QC,Crops,100,India,5419,Yield,242,Coarse Grains,2004,10202,Fc,Calculated data
+345,345,QC,Crops,100,India,5419,Yield,242,Coarse Grains,2005,11867,Fc,Calculated data
+346,346,QC,Crops,100,India,5419,Yield,242,Coarse Grains,2006,8661,Fc,Calculated data
+347,347,QC,Crops,100,India,5419,Yield,242,Coarse Grains,2007,14594,Fc,Calculated data
+348,348,QC,Crops,100,India,5419,Yield,242,Coarse Grains,2008,11627,Fc,Calculated data
+349,349,QC,Crops,100,India,5419,Yield,242,Coarse Grains,2009,9911,Fc,Calculated data
+350,350,QC,Crops,100,India,5419,Yield,242,Coarse Grains,2010,14104,Fc,Calculated data
+351,351,QC,Crops,100,India,5419,Yield,242,Coarse Grains,2011,13115,Fc,Calculated data
+352,352,QC,Crops,100,India,5419,Yield,242,Coarse Grains,2012,9843,Fc,Calculated data
+353,353,QC,Crops,100,India,5419,Yield,242,Coarse Grains,2013,18042,Fc,Calculated data
+354,354,QC,Crops,100,India,5419,Yield,242,Coarse Grains,2014,12610,Fc,Calculated data
+355,355,QC,Crops,100,India,5419,Yield,249,Coconuts,2009,52497,Fc,Calculated data
+356,356,QC,Crops,100,India,5419,Yield,249,Coconuts,2006,51296,Fc,Calculated data
+357,357,QC,Crops,100,India,5419,Yield,249,Coconuts,2001,48307,Fc,Calculated data
+358,358,QC,Crops,100,India,5419,Yield,249,Coconuts,2005,49872,Fc,Calculated data
+359,359,QC,Crops,100,India,5419,Yield,249,Coconuts,2002,48809,Fc,Calculated data
+360,360,QC,Crops,100,India,5419,Yield,249,Coconuts,2000,47175,Fc,Calculated data
+361,361,QC,Crops,100,India,5419,Yield,249,Coconuts,1999,47120,Fc,Calculated data
+362,362,QC,Crops,100,India,5419,Yield,249,Coconuts,1998,46218,Fc,Calculated data
+363,363,QC,Crops,100,India,5419,Yield,249,Coconuts,1996,44906,Fc,Calculated data
+364,364,QC,Crops,100,India,5419,Yield,249,Coconuts,1995,43337,Fc,Calculated data
+365,1153,QC,Crops,100,India,5419,Yield,249,Coconuts,1994,42337,Fc,Calculated data
+366,365,QC,Crops,100,India,5419,Yield,249,Coconuts,1997,45628,Fc,Calculated data
+367,366,QC,Crops,100,India,5419,Yield,249,Coconuts,2008,52342,Fc,Calculated data
+368,367,QC,Crops,100,India,5419,Yield,249,Coconuts,2013,56155,Fc,Calculated data
+369,368,QC,Crops,100,India,5419,Yield,249,Coconuts,2011,53322,Fc,Calculated data
+370,369,QC,Crops,100,India,5419,Yield,249,Coconuts,2014,57114,Fc,Calculated data
+371,370,QC,Crops,100,India,5419,Yield,249,Coconuts,2004,49642,Fc,Calculated data
+372,371,QC,Crops,100,India,5419,Yield,249,Coconuts,2003,49415,Fc,Calculated data
+373,372,QC,Crops,100,India,5419,Yield,249,Coconuts,2012,55257,Fc,Calculated data
+374,373,QC,Crops,100,India,5419,Yield,249,Coconuts,2007,51770,Fc,Calculated data
+375,374,QC,Crops,100,India,5419,Yield,265,Oils,1994,10847,Fc,Calculated data
+376,375,QC,Crops,100,India,5419,Yield,265,Oils,1995,9886,Fc,Calculated data
+377,376,QC,Crops,100,India,5419,Yield,265,Oils,1996,12189,Fc,Calculated data
+378,377,QC,Crops,100,India,5419,Yield,265,Oils,1997,12925,Fc,Calculated data
+379,378,QC,Crops,100,India,5419,Yield,265,Oils,1998,12312,Fc,Calculated data
+380,379,QC,Crops,100,India,5419,Yield,265,Oils,1999,9788,Fc,Calculated data
+381,380,QC,Crops,100,India,5419,Yield,265,Oils,2000,8176,Fc,Calculated data
+382,381,QC,Crops,100,India,5419,Yield,265,Oils,2001,9107,Fc,Calculated data
+383,382,QC,Crops,100,India,5419,Yield,265,Oils,2002,7341,Fc,Calculated data
+384,383,QC,Crops,100,India,5419,Yield,265,Oils,2003,11108,Fc,Calculated data
+385,384,QC,Crops,100,India,5419,Yield,265,Oils,2004,10678,Fc,Calculated data
+386,385,QC,Crops,100,India,5419,Yield,265,Oils,2005,11464,Fc,Calculated data
+387,386,QC,Crops,100,India,5419,Yield,265,Oils,2006,11925,Fc,Calculated data
+388,387,QC,Crops,100,India,5419,Yield,265,Oils,2007,13380,Fc,Calculated data
+389,388,QC,Crops,100,India,5419,Yield,265,Oils,2008,13520,Fc,Calculated data
+390,389,QC,Crops,100,India,5419,Yield,265,Oils,2009,13730,Fc,Calculated data
+391,390,QC,Crops,100,India,5419,Yield,265,Oils,2010,15260,Fc,Calculated data
+392,391,QC,Crops,100,India,5419,Yield,265,Oils,2011,15602,Fc,Calculated data
+393,392,QC,Crops,100,India,5419,Yield,265,Oils,2012,17108,Fc,Calculated data
+394,393,QC,Crops,100,India,5419,Yield,265,Oils,2013,15000,Fc,Calculated data
+395,394,QC,Crops,100,India,5419,Yield,265,Oils,2014,16663,Fc,Calculated data
+396,395,QC,Crops,100,India,5419,Yield,267,Dry Fruits,1994,6106,Fc,Calculated data
+397,396,QC,Crops,100,India,5419,Yield,267,Dry Fruits,1995,5943,Fc,Calculated data
+398,397,QC,Crops,100,India,5419,Yield,267,Dry Fruits,1996,6477,Fc,Calculated data
+399,398,QC,Crops,100,India,5419,Yield,267,Dry Fruits,1997,5115,Fc,Calculated data
+400,399,QC,Crops,100,India,5419,Yield,267,Dry Fruits,1998,5172,Fc,Calculated data
+401,400,QC,Crops,100,India,5419,Yield,267,Dry Fruits,1999,5385,Fc,Calculated data
+402,401,QC,Crops,100,India,5419,Yield,267,Dry Fruits,2000,6020,Fc,Calculated data
+403,402,QC,Crops,100,India,5419,Yield,267,Dry Fruits,2001,5774,Fc,Calculated data
+404,403,QC,Crops,100,India,5419,Yield,267,Dry Fruits,2002,5314,Fc,Calculated data
+405,404,QC,Crops,100,India,5419,Yield,267,Dry Fruits,2003,4644,Fc,Calculated data
+406,405,QC,Crops,100,India,5419,Yield,267,Dry Fruits,2004,5492,Fc,Calculated data
+407,406,QC,Crops,100,India,5419,Yield,267,Dry Fruits,2005,6151,Fc,Calculated data
+408,407,QC,Crops,100,India,5419,Yield,267,Dry Fruits,2006,5685,Fc,Calculated data
+409,408,QC,Crops,100,India,5419,Yield,267,Dry Fruits,2007,7660,Fc,Calculated data
+410,409,QC,Crops,100,India,5419,Yield,267,Dry Fruits,2008,6388,Fc,Calculated data
+411,410,QC,Crops,100,India,5419,Yield,267,Dry Fruits,2009,5761,Fc,Calculated data
+412,411,QC,Crops,100,India,5419,Yield,267,Dry Fruits,2010,7000,Fc,Calculated data
+413,412,QC,Crops,100,India,5419,Yield,267,Dry Fruits,2011,7082,Fc,Calculated data
+414,413,QC,Crops,100,India,5419,Yield,267,Dry Fruits,2012,6634,Fc,Calculated data
+415,414,QC,Crops,100,India,5419,Yield,267,Dry Fruits,2013,7412,Fc,Calculated data
+416,415,QC,Crops,100,India,5419,Yield,267,Dry Fruits,2014,5685,Fc,Calculated data
+417,416,QC,Crops,100,India,5419,Yield,270,commercial Crops,1994,8471,Fc,Calculated data
+418,417,QC,Crops,100,India,5419,Yield,270,commercial Crops,1995,9502,Fc,Calculated data
+419,418,QC,Crops,100,India,5419,Yield,270,commercial Crops,1996,9165,Fc,Calculated data
+420,419,QC,Crops,100,India,5419,Yield,270,commercial Crops,1997,10172,Fc,Calculated data
+421,420,QC,Crops,100,India,5419,Yield,270,commercial Crops,1998,6679,Fc,Calculated data
+422,421,QC,Crops,100,India,5419,Yield,270,commercial Crops,1999,8696,Fc,Calculated data
+423,422,QC,Crops,100,India,5419,Yield,270,commercial Crops,2000,9604,Fc,Calculated data
+424,423,QC,Crops,100,India,5419,Yield,270,commercial Crops,2001,9353,Fc,Calculated data
+425,424,QC,Crops,100,India,5419,Yield,270,commercial Crops,2002,10019,Fc,Calculated data
+426,425,QC,Crops,100,India,5419,Yield,270,commercial Crops,2003,8538,Fc,Calculated data
+427,426,QC,Crops,100,India,5419,Yield,270,commercial Crops,2004,11590,Fc,Calculated data
+428,427,QC,Crops,100,India,5419,Yield,270,commercial Crops,2005,10378,Fc,Calculated data
+429,428,QC,Crops,100,India,5419,Yield,270,commercial Crops,2006,11175,Fc,Calculated data
+430,429,QC,Crops,100,India,5419,Yield,270,commercial Crops,2007,10954,Fc,Calculated data
+431,430,QC,Crops,100,India,5419,Yield,270,commercial Crops,2008,10007,Fc,Calculated data
+432,431,QC,Crops,100,India,5419,Yield,270,commercial Crops,2009,11433,Fc,Calculated data
+433,432,QC,Crops,100,India,5419,Yield,270,commercial Crops,2010,11842,Fc,Calculated data
+434,433,QC,Crops,100,India,5419,Yield,270,commercial Crops,2011,12571,Fc,Calculated data
+435,434,QC,Crops,100,India,5419,Yield,270,commercial Crops,2012,11205,Fc,Calculated data
+436,435,QC,Crops,100,India,5419,Yield,270,commercial Crops,2013,12334,Fc,Calculated data
+437,436,QC,Crops,100,India,5419,Yield,270,commercial Crops,2014,10940,Fc,Calculated data
+438,437,QC,Crops,100,India,5419,Yield,280,Dry Fruits,1994,6583,Fc,Calculated data
+439,438,QC,Crops,100,India,5419,Yield,280,Dry Fruits,1995,5348,Fc,Calculated data
+440,439,QC,Crops,100,India,5419,Yield,280,Dry Fruits,1996,5604,Fc,Calculated data
+441,440,QC,Crops,100,India,5419,Yield,280,Dry Fruits,1997,6141,Fc,Calculated data
+442,441,QC,Crops,100,India,5419,Yield,280,Dry Fruits,1998,6000,Fc,Calculated data
+443,442,QC,Crops,100,India,5419,Yield,280,Dry Fruits,1999,5502,Fc,Calculated data
+444,443,QC,Crops,100,India,5419,Yield,280,Dry Fruits,2000,5938,Fc,Calculated data
+445,444,QC,Crops,100,India,5419,Yield,280,Dry Fruits,2001,4755,Fc,Calculated data
+446,445,QC,Crops,100,India,5419,Yield,280,Dry Fruits,2002,5689,Fc,Calculated data
+447,446,QC,Crops,100,India,5419,Yield,280,Dry Fruits,2003,4831,Fc,Calculated data
+448,447,QC,Crops,100,India,5419,Yield,280,Dry Fruits,2004,3707,Fc,Calculated data
+449,448,QC,Crops,100,India,5419,Yield,280,Dry Fruits,2005,4703,Fc,Calculated data
+450,449,QC,Crops,100,India,5419,Yield,280,Dry Fruits,2006,6270,Fc,Calculated data
+451,450,QC,Crops,100,India,5419,Yield,280,Dry Fruits,2007,6857,Fc,Calculated data
+452,451,QC,Crops,100,India,5419,Yield,280,Dry Fruits,2008,6419,Fc,Calculated data
+453,452,QC,Crops,100,India,5419,Yield,280,Dry Fruits,2009,6422,Fc,Calculated data
+454,453,QC,Crops,100,India,5419,Yield,280,Dry Fruits,2010,6213,Fc,Calculated data
+455,454,QC,Crops,100,India,5419,Yield,280,Dry Fruits,2011,6549,Fc,Calculated data
+456,455,QC,Crops,100,India,5419,Yield,280,Dry Fruits,2012,8146,Fc,Calculated data
+457,456,QC,Crops,100,India,5419,Yield,280,Dry Fruits,2013,7267,Fc,Calculated data
+458,457,QC,Crops,100,India,5419,Yield,280,Dry Fruits,2014,8071,Fc,Calculated data
+459,458,QC,Crops,100,India,5419,Yield,289,commercial Crops,1994,2993,Fc,Calculated data
+460,459,QC,Crops,100,India,5419,Yield,289,commercial Crops,1995,2908,Fc,Calculated data
+461,460,QC,Crops,100,India,5419,Yield,289,commercial Crops,1996,3215,Fc,Calculated data
+462,461,QC,Crops,100,India,5419,Yield,289,commercial Crops,1997,3422,Fc,Calculated data
+463,462,QC,Crops,100,India,5419,Yield,289,commercial Crops,1998,3277,Fc,Calculated data
+464,463,QC,Crops,100,India,5419,Yield,289,commercial Crops,1999,3076,Fc,Calculated data
+465,464,QC,Crops,100,India,5419,Yield,289,commercial Crops,2000,3010,Fc,Calculated data
+466,465,QC,Crops,100,India,5419,Yield,289,commercial Crops,2001,4177,Fc,Calculated data
+467,466,QC,Crops,100,India,5419,Yield,289,commercial Crops,2002,3055,Fc,Calculated data
+468,467,QC,Crops,100,India,5419,Yield,289,commercial Crops,2003,4600,Fc,Calculated data
+469,468,QC,Crops,100,India,5419,Yield,289,commercial Crops,2004,3656,Fc,Calculated data
+470,469,QC,Crops,100,India,5419,Yield,289,commercial Crops,2005,3720,Fc,Calculated data
+471,470,QC,Crops,100,India,5419,Yield,289,commercial Crops,2006,3752,Fc,Calculated data
+472,471,QC,Crops,100,India,5419,Yield,289,commercial Crops,2007,4207,Fc,Calculated data
+473,472,QC,Crops,100,India,5419,Yield,289,commercial Crops,2008,3539,Fc,Calculated data
+474,473,QC,Crops,100,India,5419,Yield,289,commercial Crops,2009,3030,Fc,Calculated data
+475,474,QC,Crops,100,India,5419,Yield,289,commercial Crops,2010,4295,Fc,Calculated data
+476,475,QC,Crops,100,India,5419,Yield,289,commercial Crops,2011,4241,Fc,Calculated data
+477,476,QC,Crops,100,India,5419,Yield,289,commercial Crops,2012,3764,Fc,Calculated data
+478,826,QC,Crops,100,India,5419,Yield,702,commercial Crops,2013,1727,Fc,Calculated data
+479,478,QC,Crops,100,India,5419,Yield,289,commercial Crops,2014,4055,Fc,Calculated data
+480,479,QC,Crops,100,India,5419,Yield,328,commercial Crops,1994,8024,Fc,Calculated data
+481,480,QC,Crops,100,India,5419,Yield,328,commercial Crops,1995,7562,Fc,Calculated data
+482,481,QC,Crops,100,India,5419,Yield,328,commercial Crops,1996,8289,Fc,Calculated data
+483,482,QC,Crops,100,India,5419,Yield,328,commercial Crops,1997,6501,Fc,Calculated data
+484,483,QC,Crops,100,India,5419,Yield,328,commercial Crops,1998,6987,Fc,Calculated data
+485,484,QC,Crops,100,India,5419,Yield,328,commercial Crops,1999,7032,Fc,Calculated data
+486,485,QC,Crops,100,India,5419,Yield,328,commercial Crops,2000,5979,Fc,Calculated data
+487,486,QC,Crops,100,India,5419,Yield,328,commercial Crops,2001,5836,Fc,Calculated data
+488,487,QC,Crops,100,India,5419,Yield,328,commercial Crops,2002,5974,Fc,Calculated data
+489,488,QC,Crops,100,India,5419,Yield,328,commercial Crops,2003,9600,Fc,Calculated data
+490,489,QC,Crops,100,India,5419,Yield,328,commercial Crops,2004,9933,Fc,Calculated data
+491,490,QC,Crops,100,India,5419,Yield,328,commercial Crops,2005,11326,Fc,Calculated data
+492,491,QC,Crops,100,India,5419,Yield,328,commercial Crops,2006,13151,Fc,Calculated data
+493,492,QC,Crops,100,India,5419,Yield,328,commercial Crops,2007,14613,Fc,Calculated data
+494,493,QC,Crops,100,India,5419,Yield,328,commercial Crops,2008,12576,Fc,Calculated data
+495,494,QC,Crops,100,India,5419,Yield,328,commercial Crops,2009,12377,Fc,Calculated data
+496,495,QC,Crops,100,India,5419,Yield,328,commercial Crops,2010,15940,Fc,Calculated data
+497,496,QC,Crops,100,India,5419,Yield,328,commercial Crops,2011,15748,Fc,Calculated data
+498,497,QC,Crops,100,India,5419,Yield,328,commercial Crops,2012,15174,Fc,Calculated data
+499,498,QC,Crops,100,India,5419,Yield,328,commercial Crops,2013,16165,Fc,Calculated data
+500,499,QC,Crops,100,India,5419,Yield,328,commercial Crops,2014,16102,Fc,Calculated data
+501,500,QC,Crops,100,India,5419,Yield,333,Lentils,1994,3463,Fc,Calculated data
+502,501,QC,Crops,100,India,5419,Yield,333,Lentils,1995,3403,Fc,Calculated data
+503,502,QC,Crops,100,India,5419,Yield,333,Lentils,1996,3463,Fc,Calculated data
+504,503,QC,Crops,100,India,5419,Yield,333,Lentils,1997,3732,Fc,Calculated data
+505,504,QC,Crops,100,India,5419,Yield,333,Lentils,1998,2899,Fc,Calculated data
+506,505,QC,Crops,100,India,5419,Yield,333,Lentils,1999,3535,Fc,Calculated data
+507,506,QC,Crops,100,India,5419,Yield,333,Lentils,2000,4060,Fc,Calculated data
+508,507,QC,Crops,100,India,5419,Yield,333,Lentils,2001,3509,Fc,Calculated data
+509,508,QC,Crops,100,India,5419,Yield,333,Lentils,2002,3903,Fc,Calculated data
+510,509,QC,Crops,100,India,5419,Yield,333,Lentils,2003,3926,Fc,Calculated data
+511,510,QC,Crops,100,India,5419,Yield,333,Lentils,2004,4124,Fc,Calculated data
+512,511,QC,Crops,100,India,5419,Yield,333,Lentils,2005,3782,Fc,Calculated data
+513,512,QC,Crops,100,India,5419,Yield,333,Lentils,2006,3949,Fc,Calculated data
+514,513,QC,Crops,100,India,5419,Yield,333,Lentils,2007,3941,Fc,Calculated data
+515,514,QC,Crops,100,India,5419,Yield,333,Lentils,2008,3483,Fc,Calculated data
+516,515,QC,Crops,100,India,5419,Yield,333,Lentils,2009,4148,Fc,Calculated data
+517,516,QC,Crops,100,India,5419,Yield,333,Lentils,2010,4494,Fc,Calculated data
+518,517,QC,Crops,100,India,5419,Yield,333,Lentils,2011,4339,Fc,Calculated data
+519,518,QC,Crops,100,India,5419,Yield,333,Lentils,2012,3527,Fc,Calculated data
+520,519,QC,Crops,100,India,5419,Yield,333,Lentils,2013,4349,Fc,Calculated data
+521,520,QC,Crops,100,India,5419,Yield,333,Lentils,2014,3917,Fc,Calculated data
+522,521,QC,Crops,100,India,5419,Yield,339,Oils,1994,3209,Fc,Calculated data
+523,522,QC,Crops,100,India,5419,Yield,339,Oils,1995,3161,Fc,Calculated data
+524,523,QC,Crops,100,India,5419,Yield,339,Oils,1996,2779,Fc,Calculated data
+525,524,QC,Crops,100,India,5419,Yield,339,Oils,1997,2991,Fc,Calculated data
+526,525,QC,Crops,100,India,5419,Yield,339,Oils,1998,3048,Fc,Calculated data
+527,526,QC,Crops,100,India,5419,Yield,339,Oils,1999,3043,Fc,Calculated data
+528,527,QC,Crops,100,India,5419,Yield,339,Oils,2000,2997,Fc,Calculated data
+529,528,QC,Crops,100,India,5419,Yield,339,Oils,2001,3023,Fc,Calculated data
+530,529,QC,Crops,100,India,5419,Yield,339,Oils,2002,3039,Fc,Calculated data
+531,530,QC,Crops,100,India,5419,Yield,339,Oils,2003,3003,Fc,Calculated data
+532,531,QC,Crops,100,India,5419,Yield,339,Oils,2004,3003,Fc,Calculated data
+533,532,QC,Crops,100,India,5419,Yield,339,Oils,2005,3000,Fc,Calculated data
+534,533,QC,Crops,100,India,5419,Yield,339,Oils,2006,3002,Fc,Calculated data
+535,534,QC,Crops,100,India,5419,Yield,339,Oils,2007,3056,Fc,Calculated data
+536,535,QC,Crops,100,India,5419,Yield,339,Oils,2008,3447,Fc,Calculated data
+537,536,QC,Crops,100,India,5419,Yield,339,Oils,2009,2663,Fc,Calculated data
+538,537,QC,Crops,100,India,5419,Yield,339,Oils,2010,2778,Fc,Calculated data
+539,538,QC,Crops,100,India,5419,Yield,339,Oils,2011,3161,Fc,Calculated data
+540,539,QC,Crops,100,India,5419,Yield,339,Oils,2012,3238,Fc,Calculated data
+541,540,QC,Crops,100,India,5419,Yield,339,Oils,2013,3345,Fc,Calculated data
+542,541,QC,Crops,100,India,5419,Yield,339,Oils,2014,3176,Fc,Calculated data
+543,542,QC,Crops,100,India,5419,Yield,372,commercial Crops,1995,50132,Fc,Calculated data
+544,543,QC,Crops,100,India,5419,Yield,372,commercial Crops,1997,56531,Fc,Calculated data
+545,544,QC,Crops,100,India,5419,Yield,372,commercial Crops,2002,54552,Fc,Calculated data
+546,545,QC,Crops,100,India,5419,Yield,372,commercial Crops,2003,49913,Fc,Calculated data
+547,546,QC,Crops,100,India,5419,Yield,372,commercial Crops,2004,54990,Fc,Calculated data
+548,547,QC,Crops,100,India,5419,Yield,372,commercial Crops,2005,55426,Fc,Calculated data
+549,548,QC,Crops,100,India,5419,Yield,397,commercial Crops,2002,55241,Fc,Calculated data
+550,549,QC,Crops,100,India,5419,Yield,397,commercial Crops,2003,50545,Fc,Calculated data
+551,550,QC,Crops,100,India,5419,Yield,397,commercial Crops,2004,55686,Fc,Calculated data
+552,551,QC,Crops,100,India,5419,Yield,397,commercial Crops,2005,56129,Fc,Calculated data
+553,552,QC,Crops,100,India,5419,Yield,406,commercial Crops,1994,40768,Fc,Calculated data
+554,553,QC,Crops,100,India,5419,Yield,406,commercial Crops,1995,42475,Fc,Calculated data
+555,554,QC,Crops,100,India,5419,Yield,406,commercial Crops,1996,46437,Fc,Calculated data
+556,555,QC,Crops,100,India,5419,Yield,406,commercial Crops,1997,44522,Fc,Calculated data
+557,556,QC,Crops,100,India,5419,Yield,406,commercial Crops,1998,46323,Fc,Calculated data
+558,557,QC,Crops,100,India,5419,Yield,406,commercial Crops,1999,41692,Fc,Calculated data
+559,558,QC,Crops,100,India,5419,Yield,406,commercial Crops,2000,42103,Fc,Calculated data
+560,559,QC,Crops,100,India,5419,Yield,406,commercial Crops,2001,41400,Fc,Calculated data
+561,560,QC,Crops,100,India,5419,Yield,406,commercial Crops,2002,43551,Fc,Calculated data
+562,561,QC,Crops,100,India,5419,Yield,406,commercial Crops,2003,40987,Fc,Calculated data
+563,562,QC,Crops,100,India,5419,Yield,406,commercial Crops,2004,49755,Fc,Calculated data
+564,563,QC,Crops,100,India,5419,Yield,406,commercial Crops,2005,44872,Fc,Calculated data
+565,564,QC,Crops,100,India,5419,Yield,406,commercial Crops,2006,44344,Fc,Calculated data
+566,565,QC,Crops,100,India,5419,Yield,406,commercial Crops,2007,48763,Fc,Calculated data
+567,566,QC,Crops,100,India,5419,Yield,406,commercial Crops,2008,51839,Fc,Calculated data
+568,567,QC,Crops,100,India,5419,Yield,406,commercial Crops,2009,50003,Fc,Calculated data
+569,568,QC,Crops,100,India,5419,Yield,406,commercial Crops,2010,50587,Fc,Calculated data
+570,569,QC,Crops,100,India,5419,Yield,406,commercial Crops,2011,52732,Fc,Calculated data
+571,570,QC,Crops,100,India,5419,Yield,406,commercial Crops,2012,50744,Fc,Calculated data
+572,477,QC,Crops,100,India,5419,Yield,289,commercial Crops,2013,3419,Fc,Calculated data
+573,572,QC,Crops,100,India,5419,Yield,414,commercial Crops,1994,26759,Fc,Calculated data
+574,573,QC,Crops,100,India,5419,Yield,414,commercial Crops,1995,20403,Fc,Calculated data
+575,574,QC,Crops,100,India,5419,Yield,414,commercial Crops,1996,27027,Fc,Calculated data
+576,575,QC,Crops,100,India,5419,Yield,414,commercial Crops,1997,23168,Fc,Calculated data
+577,576,QC,Crops,100,India,5419,Yield,414,commercial Crops,1998,27333,Fc,Calculated data
+578,577,QC,Crops,100,India,5419,Yield,414,commercial Crops,1999,29311,Fc,Calculated data
+579,578,QC,Crops,100,India,5419,Yield,414,commercial Crops,2000,26827,Fc,Calculated data
+580,579,QC,Crops,100,India,5419,Yield,414,commercial Crops,2001,26627,Fc,Calculated data
+581,580,QC,Crops,100,India,5419,Yield,414,commercial Crops,2002,24376,Fc,Calculated data
+582,581,QC,Crops,100,India,5419,Yield,414,commercial Crops,2003,22303,Fc,Calculated data
+583,582,QC,Crops,100,India,5419,Yield,414,commercial Crops,2004,24571,Fc,Calculated data
+584,583,QC,Crops,100,India,5419,Yield,414,commercial Crops,2005,24766,Fc,Calculated data
+585,584,QC,Crops,100,India,5419,Yield,414,commercial Crops,2006,26175,Fc,Calculated data
+586,585,QC,Crops,100,India,5419,Yield,414,commercial Crops,2007,27161,Fc,Calculated data
+587,586,QC,Crops,100,India,5419,Yield,414,commercial Crops,2008,27317,Fc,Calculated data
+588,587,QC,Crops,100,India,5419,Yield,414,commercial Crops,2009,27184,Fc,Calculated data
+589,588,QC,Crops,100,India,5419,Yield,414,commercial Crops,2010,28019,Fc,Calculated data
+590,589,QC,Crops,100,India,5419,Yield,414,commercial Crops,2011,28297,Fc,Calculated data
+591,590,QC,Crops,100,India,5419,Yield,414,commercial Crops,2012,28182,Fc,Calculated data
+592,591,QC,Crops,100,India,5419,Yield,414,commercial Crops,2013,28182,Fc,Calculated data
+593,592,QC,Crops,100,India,5419,Yield,515,Fruits,1996,55798,Fc,Calculated data
+594,593,QC,Crops,100,India,5419,Yield,515,Fruits,2000,45652,Fc,Calculated data
+595,594,QC,Crops,100,India,5419,Yield,515,Fruits,2001,51250,Fc,Calculated data
+596,595,QC,Crops,100,India,5419,Yield,515,Fruits,2002,48333,Fc,Calculated data
+597,596,QC,Crops,100,India,5419,Yield,526,Dry Fruits,1994,29167,Fc,Calculated data
+598,597,QC,Crops,100,India,5419,Yield,526,Dry Fruits,1995,29627,Fc,Calculated data
+599,598,QC,Crops,100,India,5419,Yield,526,Dry Fruits,1996,30896,Fc,Calculated data
+600,599,QC,Crops,100,India,5419,Yield,526,Dry Fruits,1997,30224,Fc,Calculated data
+601,600,QC,Crops,100,India,5419,Yield,526,Dry Fruits,1998,28523,Fc,Calculated data
+602,601,QC,Crops,100,India,5419,Yield,526,Dry Fruits,1999,31757,Fc,Calculated data
+603,602,QC,Crops,100,India,5419,Yield,526,Dry Fruits,2000,32967,Fc,Calculated data
+604,603,QC,Crops,100,India,5419,Yield,526,Dry Fruits,2001,32499,Fc,Calculated data
+605,604,QC,Crops,100,India,5419,Yield,526,Dry Fruits,2002,31254,Fc,Calculated data
+606,605,QC,Crops,100,India,5419,Yield,526,Dry Fruits,2003,33561,Fc,Calculated data
+607,606,QC,Crops,100,India,5419,Yield,526,Dry Fruits,2004,29763,Fc,Calculated data
+608,607,QC,Crops,100,India,5419,Yield,526,Dry Fruits,2005,30476,Fc,Calculated data
+609,608,QC,Crops,100,India,5419,Yield,526,Dry Fruits,2006,30916,Fc,Calculated data
+610,609,QC,Crops,100,India,5419,Yield,526,Dry Fruits,2007,31970,Fc,Calculated data
+611,610,QC,Crops,100,India,5419,Yield,526,Dry Fruits,2008,33364,Fc,Calculated data
+612,611,QC,Crops,100,India,5419,Yield,526,Dry Fruits,2009,32135,Fc,Calculated data
+613,612,QC,Crops,100,India,5419,Yield,526,Dry Fruits,2010,33843,Fc,Calculated data
+614,613,QC,Crops,100,India,5419,Yield,526,Dry Fruits,2011,34259,Fc,Calculated data
+615,614,QC,Crops,100,India,5419,Yield,526,Dry Fruits,2012,34000,Fc,Calculated data
+616,615,QC,Crops,100,India,5419,Yield,526,Dry Fruits,2013,34000,Fc,Calculated data
+617,616,QC,Crops,100,India,5419,Yield,531,Dry Fruits,1994,26250,Fc,Calculated data
+618,617,QC,Crops,100,India,5419,Yield,531,Dry Fruits,1995,26780,Fc,Calculated data
+619,618,QC,Crops,100,India,5419,Yield,531,Dry Fruits,1996,28235,Fc,Calculated data
+620,619,QC,Crops,100,India,5419,Yield,531,Dry Fruits,1997,27497,Fc,Calculated data
+621,620,QC,Crops,100,India,5419,Yield,531,Dry Fruits,1998,26047,Fc,Calculated data
+622,621,QC,Crops,100,India,5419,Yield,531,Dry Fruits,1999,37602,Fc,Calculated data
+623,622,QC,Crops,100,India,5419,Yield,531,Dry Fruits,2000,39059,Fc,Calculated data
+624,623,QC,Crops,100,India,5419,Yield,531,Dry Fruits,2001,39101,Fc,Calculated data
+625,624,QC,Crops,100,India,5419,Yield,531,Dry Fruits,2002,37607,Fc,Calculated data
+626,625,QC,Crops,100,India,5419,Yield,531,Dry Fruits,2003,40380,Fc,Calculated data
+627,626,QC,Crops,100,India,5419,Yield,531,Dry Fruits,2004,35816,Fc,Calculated data
+628,627,QC,Crops,100,India,5419,Yield,531,Dry Fruits,2005,36680,Fc,Calculated data
+629,628,QC,Crops,100,India,5419,Yield,531,Dry Fruits,2006,37214,Fc,Calculated data
+630,629,QC,Crops,100,India,5419,Yield,531,Dry Fruits,2007,38479,Fc,Calculated data
+631,630,QC,Crops,100,India,5419,Yield,531,Dry Fruits,2008,40154,Fc,Calculated data
+632,631,QC,Crops,100,India,5419,Yield,531,Dry Fruits,2009,38671,Fc,Calculated data
+633,632,QC,Crops,100,India,5419,Yield,531,Dry Fruits,2010,40724,Fc,Calculated data
+634,633,QC,Crops,100,India,5419,Yield,531,Dry Fruits,2011,41232,Fc,Calculated data
+635,634,QC,Crops,100,India,5419,Yield,531,Dry Fruits,2012,40909,Fc,Calculated data
+636,635,QC,Crops,100,India,5419,Yield,531,Dry Fruits,2013,40909,Fc,Calculated data
+637,636,QC,Crops,100,India,5419,Yield,534,Fruits,1994,47222,Fc,Calculated data
+638,637,QC,Crops,100,India,5419,Yield,534,Fruits,1995,48634,Fc,Calculated data
+639,638,QC,Crops,100,India,5419,Yield,534,Fruits,1996,51351,Fc,Calculated data
+640,639,QC,Crops,100,India,5419,Yield,534,Fruits,1997,51573,Fc,Calculated data
+641,640,QC,Crops,100,India,5419,Yield,534,Fruits,1998,47409,Fc,Calculated data
+642,641,QC,Crops,100,India,5419,Yield,534,Fruits,1999,53234,Fc,Calculated data
+643,642,QC,Crops,100,India,5419,Yield,534,Fruits,2000,55231,Fc,Calculated data
+644,643,QC,Crops,100,India,5419,Yield,536,Fruits,1994,40000,Fc,Calculated data
+645,644,QC,Crops,100,India,5419,Yield,536,Fruits,1995,40351,Fc,Calculated data
+646,645,QC,Crops,100,India,5419,Yield,536,Fruits,1996,41561,Fc,Calculated data
+647,646,QC,Crops,100,India,5419,Yield,536,Fruits,1997,41571,Fc,Calculated data
+648,647,QC,Crops,100,India,5419,Yield,536,Fruits,1998,38419,Fc,Calculated data
+649,648,QC,Crops,100,India,5419,Yield,536,Fruits,1999,42854,Fc,Calculated data
+650,649,QC,Crops,100,India,5419,Yield,536,Fruits,2000,44523,Fc,Calculated data
+651,650,QC,Crops,100,India,5419,Yield,536,Fruits,2001,44561,Fc,Calculated data
+652,651,QC,Crops,100,India,5419,Yield,536,Fruits,2002,49475,Fc,Calculated data
+653,652,QC,Crops,100,India,5419,Yield,541,Fruits,1994,56545,Fc,Calculated data
+654,653,QC,Crops,100,India,5419,Yield,541,Fruits,1995,52092,Fc,Calculated data
+655,654,QC,Crops,100,India,5419,Yield,541,Fruits,1996,37543,Fc,Calculated data
+656,655,QC,Crops,100,India,5419,Yield,541,Fruits,1997,39088,Fc,Calculated data
+657,656,QC,Crops,100,India,5419,Yield,541,Fruits,1998,35608,Fc,Calculated data
+658,657,QC,Crops,100,India,5419,Yield,541,Fruits,1999,38348,Fc,Calculated data
+659,658,QC,Crops,100,India,5419,Yield,541,Fruits,2000,39244,Fc,Calculated data
+660,659,QC,Crops,100,India,5419,Yield,541,Fruits,2001,39660,Fc,Calculated data
+661,660,QC,Crops,100,India,5419,Yield,541,Fruits,2002,38101,Fc,Calculated data
+662,661,QC,Crops,100,India,5419,Yield,541,Fruits,2003,40873,Fc,Calculated data
+663,662,QC,Crops,100,India,5419,Yield,541,Fruits,2004,36232,Fc,Calculated data
+664,663,QC,Crops,100,India,5419,Yield,541,Fruits,2005,37078,Fc,Calculated data
+665,664,QC,Crops,100,India,5419,Yield,541,Fruits,2006,37604,Fc,Calculated data
+666,665,QC,Crops,100,India,5419,Yield,541,Fruits,2007,38878,Fc,Calculated data
+667,666,QC,Crops,100,India,5419,Yield,541,Fruits,2008,40587,Fc,Calculated data
+668,667,QC,Crops,100,India,5419,Yield,541,Fruits,2009,39060,Fc,Calculated data
+669,668,QC,Crops,100,India,5419,Yield,541,Fruits,2010,41136,Fc,Calculated data
+670,669,QC,Crops,100,India,5419,Yield,541,Fruits,2011,41634,Fc,Calculated data
+671,670,QC,Crops,100,India,5419,Yield,541,Fruits,2012,41739,Fc,Calculated data
+672,671,QC,Crops,100,India,5419,Yield,541,Fruits,2013,41739,Fc,Calculated data
+673,672,QC,Crops,100,India,5419,Yield,558,Fruits,1994,41138,Fc,Calculated data
+674,673,QC,Crops,100,India,5419,Yield,558,Fruits,1995,37861,Fc,Calculated data
+675,674,QC,Crops,100,India,5419,Yield,558,Fruits,1996,27295,Fc,Calculated data
+676,675,QC,Crops,100,India,5419,Yield,558,Fruits,1997,28436,Fc,Calculated data
+677,676,QC,Crops,100,India,5419,Yield,558,Fruits,1998,25862,Fc,Calculated data
+678,677,QC,Crops,100,India,5419,Yield,558,Fruits,1999,27897,Fc,Calculated data
+679,678,QC,Crops,100,India,5419,Yield,558,Fruits,2000,28964,Fc,Calculated data
+680,679,QC,Crops,100,India,5419,Yield,558,Fruits,2001,28866,Fc,Calculated data
+681,680,QC,Crops,100,India,5419,Yield,558,Fruits,2002,27780,Fc,Calculated data
+682,681,QC,Crops,100,India,5419,Yield,558,Fruits,2003,29856,Fc,Calculated data
+683,682,QC,Crops,100,India,5419,Yield,558,Fruits,2004,26499,Fc,Calculated data
+684,683,QC,Crops,100,India,5419,Yield,558,Fruits,2005,27157,Fc,Calculated data
+685,684,QC,Crops,100,India,5419,Yield,558,Fruits,2006,27557,Fc,Calculated data
+686,685,QC,Crops,100,India,5419,Yield,558,Fruits,2007,28499,Fc,Calculated data
+687,686,QC,Crops,100,India,5419,Yield,569,Fruits,1994,24328,Fc,Calculated data
+688,687,QC,Crops,100,India,5419,Yield,569,Fruits,1995,28226,Fc,Calculated data
+689,688,QC,Crops,100,India,5419,Yield,569,Fruits,1996,29318,Fc,Calculated data
+690,689,QC,Crops,100,India,5419,Yield,569,Fruits,1997,28648,Fc,Calculated data
+691,690,QC,Crops,100,India,5419,Yield,569,Fruits,1998,26994,Fc,Calculated data
+692,691,QC,Crops,100,India,5419,Yield,569,Fruits,1999,30211,Fc,Calculated data
+693,692,QC,Crops,100,India,5419,Yield,569,Fruits,2000,31579,Fc,Calculated data
+694,693,QC,Crops,100,India,5419,Yield,569,Fruits,2001,31764,Fc,Calculated data
+695,694,QC,Crops,100,India,5419,Yield,569,Fruits,2002,30550,Fc,Calculated data
+696,695,QC,Crops,100,India,5419,Yield,569,Fruits,2003,32804,Fc,Calculated data
+697,696,QC,Crops,100,India,5419,Yield,569,Fruits,2004,29094,Fc,Calculated data
+698,697,QC,Crops,100,India,5419,Yield,569,Fruits,2005,29793,Fc,Calculated data
+699,698,QC,Crops,100,India,5419,Yield,569,Fruits,2006,30223,Fc,Calculated data
+700,699,QC,Crops,100,India,5419,Yield,569,Fruits,2007,31251,Fc,Calculated data
+701,700,QC,Crops,100,India,5419,Yield,569,Fruits,2008,32618,Fc,Calculated data
+702,701,QC,Crops,100,India,5419,Yield,569,Fruits,2009,31409,Fc,Calculated data
+703,702,QC,Crops,100,India,5419,Yield,569,Fruits,2010,33076,Fc,Calculated data
+704,703,QC,Crops,100,India,5419,Yield,569,Fruits,2011,33487,Fc,Calculated data
+705,704,QC,Crops,100,India,5419,Yield,569,Fruits,2012,34545,Fc,Calculated data
+706,705,QC,Crops,100,India,5419,Yield,569,Fruits,2013,34545,Fc,Calculated data
+707,706,QC,Crops,100,India,5419,Yield,571,Fruits,2009,55219,Fc,Calculated data
+708,707,QC,Crops,100,India,5419,Yield,656,Breweries,1994,9183,Fc,Calculated data
+709,708,QC,Crops,100,India,5419,Yield,656,Breweries,1995,7877,Fc,Calculated data
+710,709,QC,Crops,100,India,5419,Yield,656,Breweries,1996,9215,Fc,Calculated data
+711,710,QC,Crops,100,India,5419,Yield,656,Breweries,1997,8158,Fc,Calculated data
+712,711,QC,Crops,100,India,5419,Yield,656,Breweries,1998,7982,Fc,Calculated data
+713,712,QC,Crops,100,India,5419,Yield,656,Breweries,1999,8768,Fc,Calculated data
+714,713,QC,Crops,100,India,5419,Yield,656,Breweries,2000,9467,Fc,Calculated data
+715,714,QC,Crops,100,India,5419,Yield,656,Breweries,2001,9588,Fc,Calculated data
+716,715,QC,Crops,100,India,5419,Yield,656,Breweries,2002,9385,Fc,Calculated data
+717,716,QC,Crops,100,India,5419,Yield,656,Breweries,2003,8586,Fc,Calculated data
+718,717,QC,Crops,100,India,5419,Yield,656,Breweries,2004,8320,Fc,Calculated data
+719,718,QC,Crops,100,India,5419,Yield,656,Breweries,2005,8265,Fc,Calculated data
+720,719,QC,Crops,100,India,5419,Yield,656,Breweries,2006,8027,Fc,Calculated data
+721,720,QC,Crops,100,India,5419,Yield,656,Breweries,2007,8396,Fc,Calculated data
+722,721,QC,Crops,100,India,5419,Yield,656,Breweries,2008,7605,Fc,Calculated data
+723,722,QC,Crops,100,India,5419,Yield,656,Breweries,2009,7484,Fc,Calculated data
+724,723,QC,Crops,100,India,5419,Yield,656,Breweries,2010,8146,Fc,Calculated data
+725,724,QC,Crops,100,India,5419,Yield,656,Breweries,2011,8378,Fc,Calculated data
+726,725,QC,Crops,100,India,5419,Yield,656,Breweries,2012,8517,Fc,Calculated data
+727,726,QC,Crops,100,India,5419,Yield,656,Breweries,2013,8456,Fc,Calculated data
+728,727,QC,Crops,100,India,5419,Yield,661,Dry Fruits,1994,5674,Fc,Calculated data
+729,728,QC,Crops,100,India,5419,Yield,661,Dry Fruits,1995,5381,Fc,Calculated data
+730,729,QC,Crops,100,India,5419,Yield,661,Dry Fruits,1996,5333,Fc,Calculated data
+731,730,QC,Crops,100,India,5419,Yield,661,Dry Fruits,1997,4597,Fc,Calculated data
+732,731,QC,Crops,100,India,5419,Yield,661,Dry Fruits,1998,4387,Fc,Calculated data
+733,732,QC,Crops,100,India,5419,Yield,661,Dry Fruits,1999,4191,Fc,Calculated data
+734,733,QC,Crops,100,India,5419,Yield,661,Dry Fruits,2000,3930,Fc,Calculated data
+735,734,QC,Crops,100,India,5419,Yield,661,Dry Fruits,2001,4155,Fc,Calculated data
+736,735,QC,Crops,100,India,5419,Yield,661,Dry Fruits,2002,4203,Fc,Calculated data
+737,736,QC,Crops,100,India,5419,Yield,661,Dry Fruits,2003,3835,Fc,Calculated data
+738,737,QC,Crops,100,India,5419,Yield,661,Dry Fruits,2004,3669,Fc,Calculated data
+739,738,QC,Crops,100,India,5419,Yield,661,Dry Fruits,2005,3326,Fc,Calculated data
+740,739,QC,Crops,100,India,5419,Yield,661,Dry Fruits,2006,3453,Fc,Calculated data
+741,740,QC,Crops,100,India,5419,Yield,661,Dry Fruits,2007,3355,Fc,Calculated data
+742,741,QC,Crops,100,India,5419,Yield,661,Dry Fruits,2008,3312,Fc,Calculated data
+743,742,QC,Crops,100,India,5419,Yield,661,Dry Fruits,2009,3471,Fc,Calculated data
+744,743,QC,Crops,100,India,5419,Yield,661,Dry Fruits,2010,2786,Fc,Calculated data
+745,744,QC,Crops,100,India,5419,Yield,661,Dry Fruits,2011,2549,Fc,Calculated data
+746,745,QC,Crops,100,India,5419,Yield,661,Dry Fruits,2012,2063,Fc,Calculated data
+747,746,QC,Crops,100,India,5419,Yield,661,Dry Fruits,2013,1970,Fc,Calculated data
+748,747,QC,Crops,100,India,5419,Yield,667,Breweries,1994,17676,Fc,Calculated data
+749,748,QC,Crops,100,India,5419,Yield,667,Breweries,1995,17614,Fc,Calculated data
+750,749,QC,Crops,100,India,5419,Yield,667,Breweries,1996,17705,Fc,Calculated data
+751,750,QC,Crops,100,India,5419,Yield,667,Breweries,1997,18097,Fc,Calculated data
+752,751,QC,Crops,100,India,5419,Yield,667,Breweries,1998,18664,Fc,Calculated data
+753,752,QC,Crops,100,India,5419,Yield,667,Breweries,1999,18439,Fc,Calculated data
+754,753,QC,Crops,100,India,5419,Yield,667,Breweries,2000,16857,Fc,Calculated data
+755,754,QC,Crops,100,India,5419,Yield,667,Breweries,2001,16806,Fc,Calculated data
+756,755,QC,Crops,100,India,5419,Yield,667,Breweries,2002,16745,Fc,Calculated data
+757,756,QC,Crops,100,India,5419,Yield,667,Breweries,2003,16395,Fc,Calculated data
+758,757,QC,Crops,100,India,5419,Yield,667,Breweries,2004,16904,Fc,Calculated data
+759,758,QC,Crops,100,India,5419,Yield,667,Breweries,2005,17409,Fc,Calculated data
+760,759,QC,Crops,100,India,5419,Yield,667,Breweries,2006,17080,Fc,Calculated data
+761,760,QC,Crops,100,India,5419,Yield,667,Breweries,2007,17160,Fc,Calculated data
+762,761,QC,Crops,100,India,5419,Yield,667,Breweries,2008,17063,Fc,Calculated data
+763,762,QC,Crops,100,India,5419,Yield,667,Breweries,2009,16800,Fc,Calculated data
+764,763,QC,Crops,100,India,5419,Yield,667,Breweries,2010,17119,Fc,Calculated data
+765,764,QC,Crops,100,India,5419,Yield,667,Breweries,2011,18258,Fc,Calculated data
+766,765,QC,Crops,100,India,5419,Yield,667,Breweries,2012,18761,Fc,Calculated data
+767,766,QC,Crops,100,India,5419,Yield,667,Breweries,2013,21433,Fc,Calculated data
+768,767,QC,Crops,100,India,5419,Yield,687,commercial Crops,1994,2686,Fc,Calculated data
+769,768,QC,Crops,100,India,5419,Yield,687,commercial Crops,1995,3140,Fc,Calculated data
+770,769,QC,Crops,100,India,5419,Yield,687,commercial Crops,1996,3109,Fc,Calculated data
+771,770,QC,Crops,100,India,5419,Yield,687,commercial Crops,1997,3111,Fc,Calculated data
+772,771,QC,Crops,100,India,5419,Yield,687,commercial Crops,1998,3132,Fc,Calculated data
+773,772,QC,Crops,100,India,5419,Yield,687,commercial Crops,1999,3167,Fc,Calculated data
+774,773,QC,Crops,100,India,5419,Yield,687,commercial Crops,2000,3010,Fc,Calculated data
+775,774,QC,Crops,100,India,5419,Yield,687,commercial Crops,2001,2991,Fc,Calculated data
+776,775,QC,Crops,100,India,5419,Yield,687,commercial Crops,2002,2831,Fc,Calculated data
+777,776,QC,Crops,100,India,5419,Yield,687,commercial Crops,2003,2963,Fc,Calculated data
+778,777,QC,Crops,100,India,5419,Yield,687,commercial Crops,2004,3136,Fc,Calculated data
+779,778,QC,Crops,100,India,5419,Yield,687,commercial Crops,2005,3198,Fc,Calculated data
+780,779,QC,Crops,100,India,5419,Yield,687,commercial Crops,2006,3570,Fc,Calculated data
+781,780,QC,Crops,100,India,5419,Yield,687,commercial Crops,2007,2805,Fc,Calculated data
+782,781,QC,Crops,100,India,5419,Yield,687,commercial Crops,2008,2382,Fc,Calculated data
+783,782,QC,Crops,100,India,5419,Yield,687,commercial Crops,2009,1986,Fc,Calculated data
+784,783,QC,Crops,100,India,5419,Yield,687,commercial Crops,2010,2604,Fc,Calculated data
+785,784,QC,Crops,100,India,5419,Yield,687,commercial Crops,2011,2826,Fc,Calculated data
+786,785,QC,Crops,100,India,5419,Yield,687,commercial Crops,2012,2050,Fc,Calculated data
+787,786,QC,Crops,100,India,5419,Yield,687,commercial Crops,2013,4240,Fc,Calculated data
+788,787,QC,Crops,100,India,5419,Yield,689,commercial Crops,1994,9585,Fc,Calculated data
+789,788,QC,Crops,100,India,5419,Yield,689,commercial Crops,1995,9173,Fc,Calculated data
+790,789,QC,Crops,100,India,5419,Yield,689,commercial Crops,1996,11292,Fc,Calculated data
+791,790,QC,Crops,100,India,5419,Yield,689,commercial Crops,1997,10351,Fc,Calculated data
+792,791,QC,Crops,100,India,5419,Yield,689,commercial Crops,1998,11706,Fc,Calculated data
+793,792,QC,Crops,100,India,5419,Yield,689,commercial Crops,1999,10976,Fc,Calculated data
+794,793,QC,Crops,100,India,5419,Yield,689,commercial Crops,2000,11760,Fc,Calculated data
+795,794,QC,Crops,100,India,5419,Yield,689,commercial Crops,2001,12148,Fc,Calculated data
+796,795,QC,Crops,100,India,5419,Yield,689,commercial Crops,2002,10824,Fc,Calculated data
+797,796,QC,Crops,100,India,5419,Yield,689,commercial Crops,2003,15959,Fc,Calculated data
+798,797,QC,Crops,100,India,5419,Yield,689,commercial Crops,2004,16075,Fc,Calculated data
+799,798,QC,Crops,100,India,5419,Yield,689,commercial Crops,2005,15492,Fc,Calculated data
+800,799,QC,Crops,100,India,5419,Yield,689,commercial Crops,2006,16281,Fc,Calculated data
+801,800,QC,Crops,100,India,5419,Yield,689,commercial Crops,2007,16013,Fc,Calculated data
+802,801,QC,Crops,100,India,5419,Yield,689,commercial Crops,2008,16300,Fc,Calculated data
+803,802,QC,Crops,100,India,5419,Yield,689,commercial Crops,2009,15679,Fc,Calculated data
+804,803,QC,Crops,100,India,5419,Yield,689,commercial Crops,2010,15445,Fc,Calculated data
+805,804,QC,Crops,100,India,5419,Yield,689,commercial Crops,2011,15859,Fc,Calculated data
+806,805,QC,Crops,100,India,5419,Yield,689,commercial Crops,2012,16432,Fc,Calculated data
+807,806,QC,Crops,100,India,5419,Yield,689,commercial Crops,2013,17374,Fc,Calculated data
+808,807,QC,Crops,100,India,5419,Yield,702,commercial Crops,1994,1066,Fc,Calculated data
+809,808,QC,Crops,100,India,5419,Yield,702,commercial Crops,1995,1153,Fc,Calculated data
+810,809,QC,Crops,100,India,5419,Yield,702,commercial Crops,1996,1273,Fc,Calculated data
+811,810,QC,Crops,100,India,5419,Yield,702,commercial Crops,1997,1241,Fc,Calculated data
+812,811,QC,Crops,100,India,5419,Yield,702,commercial Crops,1998,1059,Fc,Calculated data
+813,812,QC,Crops,100,India,5419,Yield,702,commercial Crops,1999,1262,Fc,Calculated data
+814,813,QC,Crops,100,India,5419,Yield,702,commercial Crops,2000,1569,Fc,Calculated data
+815,814,QC,Crops,100,India,5419,Yield,702,commercial Crops,2001,1659,Fc,Calculated data
+816,815,QC,Crops,100,India,5419,Yield,702,commercial Crops,2002,1740,Fc,Calculated data
+817,816,QC,Crops,100,India,5419,Yield,702,commercial Crops,2003,1747,Fc,Calculated data
+818,817,QC,Crops,100,India,5419,Yield,702,commercial Crops,2004,1775,Fc,Calculated data
+819,818,QC,Crops,100,India,5419,Yield,702,commercial Crops,2005,1858,Fc,Calculated data
+820,819,QC,Crops,100,India,5419,Yield,702,commercial Crops,2006,1635,Fc,Calculated data
+821,820,QC,Crops,100,India,5419,Yield,702,commercial Crops,2007,1666,Fc,Calculated data
+822,821,QC,Crops,100,India,5419,Yield,702,commercial Crops,2008,1680,Fc,Calculated data
+823,822,QC,Crops,100,India,5419,Yield,702,commercial Crops,2009,1743,Fc,Calculated data
+824,823,QC,Crops,100,India,5419,Yield,702,commercial Crops,2010,1811,Fc,Calculated data
+825,824,QC,Crops,100,India,5419,Yield,702,commercial Crops,2011,1777,Fc,Calculated data
+826,825,QC,Crops,100,India,5419,Yield,702,commercial Crops,2012,1964,Fc,Calculated data
+827,846,QC,Crops,100,India,5419,Yield,711,commercial Crops,2013,7840,Fc,Calculated data
+828,827,QC,Crops,100,India,5419,Yield,711,commercial Crops,1994,3589,Fc,Calculated data
+829,828,QC,Crops,100,India,5419,Yield,711,commercial Crops,1995,3667,Fc,Calculated data
+830,829,QC,Crops,100,India,5419,Yield,711,commercial Crops,1996,4414,Fc,Calculated data
+831,830,QC,Crops,100,India,5419,Yield,711,commercial Crops,1997,4197,Fc,Calculated data
+832,831,QC,Crops,100,India,5419,Yield,711,commercial Crops,1998,4573,Fc,Calculated data
+833,832,QC,Crops,100,India,5419,Yield,711,commercial Crops,1999,4681,Fc,Calculated data
+834,833,QC,Crops,100,India,5419,Yield,711,commercial Crops,2000,4840,Fc,Calculated data
+835,834,QC,Crops,100,India,5419,Yield,711,commercial Crops,2001,4303,Fc,Calculated data
+836,835,QC,Crops,100,India,5419,Yield,711,commercial Crops,2002,2968,Fc,Calculated data
+837,836,QC,Crops,100,India,5419,Yield,711,commercial Crops,2003,5345,Fc,Calculated data
+838,837,QC,Crops,100,India,5419,Yield,711,commercial Crops,2004,5531,Fc,Calculated data
+839,838,QC,Crops,100,India,5419,Yield,711,commercial Crops,2005,5844,Fc,Calculated data
+840,839,QC,Crops,100,India,5419,Yield,711,commercial Crops,2006,5681,Fc,Calculated data
+841,840,QC,Crops,100,India,5419,Yield,711,commercial Crops,2007,7013,Fc,Calculated data
+842,841,QC,Crops,100,India,5419,Yield,711,commercial Crops,2008,6575,Fc,Calculated data
+843,842,QC,Crops,100,India,5419,Yield,711,commercial Crops,2009,6844,Fc,Calculated data
+844,843,QC,Crops,100,India,5419,Yield,711,commercial Crops,2010,7367,Fc,Calculated data
+845,844,QC,Crops,100,India,5419,Yield,711,commercial Crops,2011,7747,Fc,Calculated data
+846,845,QC,Crops,100,India,5419,Yield,711,commercial Crops,2012,7746,Fc,Calculated data
+847,886,QC,Crops,100,India,5419,Yield,723,commercial Crops,2013,20268,Fc,Calculated data
+848,847,QC,Crops,100,India,5419,Yield,720,commercial Crops,1994,19566,Fc,Calculated data
+849,848,QC,Crops,100,India,5419,Yield,720,commercial Crops,1995,19000,Fc,Calculated data
+850,849,QC,Crops,100,India,5419,Yield,720,commercial Crops,1996,33073,Fc,Calculated data
+851,850,QC,Crops,100,India,5419,Yield,720,commercial Crops,1997,33158,Fc,Calculated data
+852,851,QC,Crops,100,India,5419,Yield,720,commercial Crops,1998,33718,Fc,Calculated data
+853,852,QC,Crops,100,India,5419,Yield,720,commercial Crops,1999,33918,Fc,Calculated data
+854,853,QC,Crops,100,India,5419,Yield,720,commercial Crops,2000,33571,Fc,Calculated data
+855,854,QC,Crops,100,India,5419,Yield,720,commercial Crops,2001,30798,Fc,Calculated data
+856,855,QC,Crops,100,India,5419,Yield,720,commercial Crops,2002,30192,Fc,Calculated data
+857,856,QC,Crops,100,India,5419,Yield,720,commercial Crops,2003,31769,Fc,Calculated data
+858,857,QC,Crops,100,India,5419,Yield,720,commercial Crops,2004,35476,Fc,Calculated data
+859,858,QC,Crops,100,India,5419,Yield,720,commercial Crops,2005,37671,Fc,Calculated data
+860,859,QC,Crops,100,India,5419,Yield,720,commercial Crops,2006,35371,Fc,Calculated data
+861,860,QC,Crops,100,India,5419,Yield,720,commercial Crops,2007,37078,Fc,Calculated data
+862,861,QC,Crops,100,India,5419,Yield,720,commercial Crops,2008,37378,Fc,Calculated data
+863,862,QC,Crops,100,India,5419,Yield,720,commercial Crops,2009,34987,Fc,Calculated data
+864,863,QC,Crops,100,India,5419,Yield,720,commercial Crops,2010,35831,Fc,Calculated data
+865,864,QC,Crops,100,India,5419,Yield,720,commercial Crops,2011,47082,Fc,Calculated data
+866,865,QC,Crops,100,India,5419,Yield,720,commercial Crops,2012,48774,Fc,Calculated data
+867,866,QC,Crops,100,India,5419,Yield,720,commercial Crops,2013,50221,Fc,Calculated data
+868,867,QC,Crops,100,India,5419,Yield,723,commercial Crops,1994,14076,Fc,Calculated data
+869,868,QC,Crops,100,India,5419,Yield,723,commercial Crops,1995,12048,Fc,Calculated data
+870,869,QC,Crops,100,India,5419,Yield,723,commercial Crops,1996,13350,Fc,Calculated data
+871,870,QC,Crops,100,India,5419,Yield,723,commercial Crops,1997,12287,Fc,Calculated data
+872,871,QC,Crops,100,India,5419,Yield,723,commercial Crops,1998,12969,Fc,Calculated data
+873,872,QC,Crops,100,India,5419,Yield,723,commercial Crops,1999,16319,Fc,Calculated data
+874,873,QC,Crops,100,India,5419,Yield,723,commercial Crops,2000,17341,Fc,Calculated data
+875,874,QC,Crops,100,India,5419,Yield,723,commercial Crops,2001,14795,Fc,Calculated data
+876,875,QC,Crops,100,India,5419,Yield,723,commercial Crops,2002,18586,Fc,Calculated data
+877,876,QC,Crops,100,India,5419,Yield,723,commercial Crops,2003,15068,Fc,Calculated data
+878,877,QC,Crops,100,India,5419,Yield,723,commercial Crops,2004,19033,Fc,Calculated data
+879,878,QC,Crops,100,India,5419,Yield,723,commercial Crops,2005,20982,Fc,Calculated data
+880,879,QC,Crops,100,India,5419,Yield,723,commercial Crops,2006,20429,Fc,Calculated data
+881,880,QC,Crops,100,India,5419,Yield,723,commercial Crops,2007,19732,Fc,Calculated data
+882,881,QC,Crops,100,India,5419,Yield,723,commercial Crops,2008,18391,Fc,Calculated data
+883,882,QC,Crops,100,India,5419,Yield,723,commercial Crops,2009,19033,Fc,Calculated data
+884,883,QC,Crops,100,India,5419,Yield,723,commercial Crops,2010,20327,Fc,Calculated data
+885,884,QC,Crops,100,India,5419,Yield,723,commercial Crops,2011,21890,Fc,Calculated data
+886,885,QC,Crops,100,India,5419,Yield,723,commercial Crops,2012,20203,Fc,Calculated data
+887,571,QC,Crops,100,India,5419,Yield,406,commercial Crops,2013,50766,Fc,Calculated data
+888,887,QC,Crops,100,India,5419,Yield,780,commercial Crops,1994,19487,Fc,Calculated data
+889,888,QC,Crops,100,India,5419,Yield,780,commercial Crops,1995,18745,Fc,Calculated data
+890,889,QC,Crops,100,India,5419,Yield,780,commercial Crops,1996,19989,Fc,Calculated data
+891,890,QC,Crops,100,India,5419,Yield,780,commercial Crops,1997,19790,Fc,Calculated data
+892,891,QC,Crops,100,India,5419,Yield,780,commercial Crops,1998,18750,Fc,Calculated data
+893,892,QC,Crops,100,India,5419,Yield,780,commercial Crops,1999,20022,Fc,Calculated data
+894,893,QC,Crops,100,India,5419,Yield,780,commercial Crops,2000,20257,Fc,Calculated data
+895,894,QC,Crops,100,India,5419,Yield,780,commercial Crops,2001,21820,Fc,Calculated data
+896,895,QC,Crops,100,India,5419,Yield,780,commercial Crops,2002,21444,Fc,Calculated data
+897,896,QC,Crops,100,India,5419,Yield,780,commercial Crops,2003,21731,Fc,Calculated data
+898,897,QC,Crops,100,India,5419,Yield,780,commercial Crops,2004,21863,Fc,Calculated data
+899,898,QC,Crops,100,India,5419,Yield,780,commercial Crops,2005,23625,Fc,Calculated data
+900,899,QC,Crops,100,India,5419,Yield,780,commercial Crops,2006,23477,Fc,Calculated data
+901,900,QC,Crops,100,India,5419,Yield,780,commercial Crops,2007,22549,Fc,Calculated data
+902,901,QC,Crops,100,India,5419,Yield,780,commercial Crops,2008,22072,Fc,Calculated data
+903,902,QC,Crops,100,India,5419,Yield,780,commercial Crops,2009,24920,Fc,Calculated data
+904,903,QC,Crops,100,India,5419,Yield,780,commercial Crops,2010,23437,Fc,Calculated data
+905,904,QC,Crops,100,India,5419,Yield,780,commercial Crops,2011,24505,Fc,Calculated data
+906,905,QC,Crops,100,India,5419,Yield,780,commercial Crops,2012,23900,Fc,Calculated data
+907,906,QC,Crops,100,India,5419,Yield,780,commercial Crops,2013,24300,Fc,Calculated data
+908,907,QC,Crops,100,India,5419,Yield,782,Coarse Grains,1994,9320,Fc,Calculated data
+909,908,QC,Crops,100,India,5419,Yield,782,Coarse Grains,1995,9438,Fc,Calculated data
+910,909,QC,Crops,100,India,5419,Yield,782,Coarse Grains,1996,13921,Fc,Calculated data
+911,910,QC,Crops,100,India,5419,Yield,782,Coarse Grains,1997,10042,Fc,Calculated data
+912,911,QC,Crops,100,India,5419,Yield,782,Coarse Grains,1998,9904,Fc,Calculated data
+913,912,QC,Crops,100,India,5419,Yield,782,Coarse Grains,1999,10778,Fc,Calculated data
+914,913,QC,Crops,100,India,5419,Yield,782,Coarse Grains,2000,10777,Fc,Calculated data
+915,914,QC,Crops,100,India,5419,Yield,782,Coarse Grains,2001,11759,Fc,Calculated data
+916,915,QC,Crops,100,India,5419,Yield,782,Coarse Grains,2002,11315,Fc,Calculated data
+917,916,QC,Crops,100,India,5419,Yield,782,Coarse Grains,2003,10557,Fc,Calculated data
+918,917,QC,Crops,100,India,5419,Yield,782,Coarse Grains,2004,10874,Fc,Calculated data
+919,918,QC,Crops,100,India,5419,Yield,782,Coarse Grains,2005,11082,Fc,Calculated data
+920,919,QC,Crops,100,India,5419,Yield,782,Coarse Grains,2006,11357,Fc,Calculated data
+921,920,QC,Crops,100,India,5419,Yield,782,Coarse Grains,2007,11950,Fc,Calculated data
+922,921,QC,Crops,100,India,5419,Yield,782,Coarse Grains,2008,13200,Fc,Calculated data
+923,922,QC,Crops,100,India,5419,Yield,782,Coarse Grains,2009,10965,Fc,Calculated data
+924,923,QC,Crops,100,India,5419,Yield,782,Coarse Grains,2010,12230,Fc,Calculated data
+925,924,QC,Crops,100,India,5419,Yield,782,Coarse Grains,2011,12714,Fc,Calculated data
+926,925,QC,Crops,100,India,5419,Yield,782,Coarse Grains,2012,12989,Fc,Calculated data
+927,926,QC,Crops,100,India,5419,Yield,782,Coarse Grains,2013,10800,Fc,Calculated data
+928,927,QC,Crops,100,India,5419,Yield,826,commercial Crops,1994,14628,Fc,Calculated data
+929,928,QC,Crops,100,India,5419,Yield,826,commercial Crops,1995,14874,Fc,Calculated data
+930,929,QC,Crops,100,India,5419,Yield,826,commercial Crops,1996,13584,Fc,Calculated data
+931,930,QC,Crops,100,India,5419,Yield,826,commercial Crops,1997,14439,Fc,Calculated data
+932,931,QC,Crops,100,India,5419,Yield,826,commercial Crops,1998,13922,Fc,Calculated data
+933,932,QC,Crops,100,India,5419,Yield,826,commercial Crops,1999,14489,Fc,Calculated data
+934,933,QC,Crops,100,India,5419,Yield,826,commercial Crops,2000,11998,Fc,Calculated data
+935,934,QC,Crops,100,India,5419,Yield,826,commercial Crops,2001,13077,Fc,Calculated data
+936,935,QC,Crops,100,India,5419,Yield,826,commercial Crops,2002,15714,Fc,Calculated data
+937,936,QC,Crops,100,India,5419,Yield,826,commercial Crops,2003,14848,Fc,Calculated data
+938,937,QC,Crops,100,India,5419,Yield,826,commercial Crops,2004,14874,Fc,Calculated data
+939,938,QC,Crops,100,India,5419,Yield,826,commercial Crops,2005,14982,Fc,Calculated data
+940,939,QC,Crops,100,India,5419,Yield,826,commercial Crops,2006,14812,Fc,Calculated data
+941,940,QC,Crops,100,India,5419,Yield,826,commercial Crops,2007,14054,Fc,Calculated data
+942,941,QC,Crops,100,India,5419,Yield,826,commercial Crops,2008,14000,Fc,Calculated data
+943,942,QC,Crops,100,India,5419,Yield,826,commercial Crops,2009,15942,Fc,Calculated data
+944,943,QC,Crops,100,India,5419,Yield,826,commercial Crops,2010,15531,Fc,Calculated data
+945,944,QC,Crops,100,India,5419,Yield,826,commercial Crops,2011,16939,Fc,Calculated data
+946,945,QC,Crops,100,India,5419,Yield,826,commercial Crops,2012,17826,Fc,Calculated data
+947,946,QC,Crops,100,India,5419,Yield,826,commercial Crops,2013,16939,Fc,Calculated data
+948,947,QC,Crops,100,India,5419,Yield,836,commercial Crops,1994,11622,Fc,Calculated data
+949,948,QC,Crops,100,India,5419,Yield,836,commercial Crops,1995,13258,Fc,Calculated data
+950,949,QC,Crops,100,India,5419,Yield,836,commercial Crops,1996,13852,Fc,Calculated data
+951,950,QC,Crops,100,India,5419,Yield,836,commercial Crops,1997,14589,Fc,Calculated data
+952,951,QC,Crops,100,India,5419,Yield,836,commercial Crops,1998,15633,Fc,Calculated data
+953,952,QC,Crops,100,India,5419,Yield,836,commercial Crops,1999,15747,Fc,Calculated data
+954,953,QC,Crops,100,India,5419,Yield,836,commercial Crops,2000,15750,Fc,Calculated data
+955,954,QC,Crops,100,India,5419,Yield,836,commercial Crops,2001,15736,Fc,Calculated data
+956,955,QC,Crops,100,India,5419,Yield,836,commercial Crops,2002,15918,Fc,Calculated data
+957,956,QC,Crops,100,India,5419,Yield,836,commercial Crops,2003,16627,Fc,Calculated data
+958,957,QC,Crops,100,India,5419,Yield,836,commercial Crops,2004,17038,Fc,Calculated data
+959,958,QC,Crops,100,India,5419,Yield,836,commercial Crops,2005,17956,Fc,Calculated data
+960,959,QC,Crops,100,India,5419,Yield,836,commercial Crops,2006,18786,Fc,Calculated data
+961,960,QC,Crops,100,India,5419,Yield,836,commercial Crops,2007,17981,Fc,Calculated data
+962,961,QC,Crops,100,India,5419,Yield,836,commercial Crops,2008,18672,Fc,Calculated data
+963,962,QC,Crops,100,India,5419,Yield,836,commercial Crops,2009,17765,Fc,Calculated data
+964,963,QC,Crops,100,India,5419,Yield,836,commercial Crops,2010,18071,Fc,Calculated data
+965,964,QC,Crops,100,India,5419,Yield,836,commercial Crops,2011,18182,Fc,Calculated data
+966,965,QC,Crops,100,India,5419,Yield,836,commercial Crops,2012,20362,Fc,Calculated data
+967,966,QC,Crops,100,India,5419,Yield,836,commercial Crops,2013,20362,Fc,Calculated data
+968,967,QC,Crops,100,India,5419,Yield,1717,Cereals,1994,21155,Fc,Calculated data
+969,968,QC,Crops,100,India,5419,Yield,1717,Cereals,1995,21117,Fc,Calculated data
+970,969,QC,Crops,100,India,5419,Yield,1717,Cereals,1996,21810,Fc,Calculated data
+971,970,QC,Crops,100,India,5419,Yield,1717,Cereals,1997,22286,Fc,Calculated data
+972,971,QC,Crops,100,India,5419,Yield,1717,Cereals,1998,22484,Fc,Calculated data
+973,972,QC,Crops,100,India,5419,Yield,1717,Cereals,1999,23137,Fc,Calculated data
+974,973,QC,Crops,100,India,5419,Yield,1717,Cereals,2000,22942,Fc,Calculated data
+975,974,QC,Crops,100,India,5419,Yield,1717,Cereals,2001,24231,Fc,Calculated data
+976,975,QC,Crops,100,India,5419,Yield,1717,Cereals,2002,21873,Fc,Calculated data
+977,976,QC,Crops,100,India,5419,Yield,1717,Cereals,2003,23994,Fc,Calculated data
+978,977,QC,Crops,100,India,5419,Yield,1717,Cereals,2004,23500,Fc,Calculated data
+979,978,QC,Crops,100,India,5419,Yield,1717,Cereals,2005,24116,Fc,Calculated data
+980,979,QC,Crops,100,India,5419,Yield,1717,Cereals,2006,24465,Fc,Calculated data
+981,980,QC,Crops,100,India,5419,Yield,1717,Cereals,2007,25833,Fc,Calculated data
+982,981,QC,Crops,100,India,5419,Yield,1717,Cereals,2008,26379,Fc,Calculated data
+983,982,QC,Crops,100,India,5419,Yield,1717,Cereals,2009,25808,Fc,Calculated data
+984,983,QC,Crops,100,India,5419,Yield,1717,Cereals,2010,26764,Fc,Calculated data
+985,984,QC,Crops,100,India,5419,Yield,1717,Cereals,2011,28607,Fc,Calculated data
+986,985,QC,Crops,100,India,5419,Yield,1717,Cereals,2012,30100,Fc,Calculated data
+987,986,QC,Crops,100,India,5419,Yield,1717,Cereals,2013,29634,Fc,Calculated data
+988,987,QC,Crops,100,India,5419,Yield,1717,Cereals,2014,29811,Fc,Calculated data
+989,988,QC,Crops,100,India,5419,Yield,1726,Pulses,1994,6012,Fc,Calculated data
+990,989,QC,Crops,100,India,5419,Yield,1726,Pulses,1995,6541,Fc,Calculated data
+991,990,QC,Crops,100,India,5419,Yield,1726,Pulses,1996,5771,Fc,Calculated data
+992,991,QC,Crops,100,India,5419,Yield,1726,Pulses,1997,6196,Fc,Calculated data
+993,992,QC,Crops,100,India,5419,Yield,1726,Pulses,1998,5855,Fc,Calculated data
+994,993,QC,Crops,100,India,5419,Yield,1726,Pulses,1999,6912,Fc,Calculated data
+995,994,QC,Crops,100,India,5419,Yield,1726,Pulses,2000,7042,Fc,Calculated data
+996,995,QC,Crops,100,India,5419,Yield,1726,Pulses,2001,6540,Fc,Calculated data
+997,996,QC,Crops,100,India,5419,Yield,1726,Pulses,2002,6034,Fc,Calculated data
+998,997,QC,Crops,100,India,5419,Yield,1726,Pulses,2003,5810,Fc,Calculated data
+999,998,QC,Crops,100,India,5419,Yield,1726,Pulses,2004,5897,Fc,Calculated data
+1000,999,QC,Crops,100,India,5419,Yield,1726,Pulses,2005,5846,Fc,Calculated data
+1001,1000,QC,Crops,100,India,5419,Yield,1726,Pulses,2006,6123,Fc,Calculated data
+1002,1001,QC,Crops,100,India,5419,Yield,1726,Pulses,2007,6055,Fc,Calculated data
+1003,1002,QC,Crops,100,India,5419,Yield,1726,Pulses,2008,6152,Fc,Calculated data
+1004,1003,QC,Crops,100,India,5419,Yield,1726,Pulses,2009,6706,Fc,Calculated data
+1005,1004,QC,Crops,100,India,5419,Yield,1726,Pulses,2010,6496,Fc,Calculated data
+1006,1005,QC,Crops,100,India,5419,Yield,1726,Pulses,2011,6163,Fc,Calculated data
+1007,1006,QC,Crops,100,India,5419,Yield,1726,Pulses,2012,6385,Fc,Calculated data
+1008,1007,QC,Crops,100,India,5419,Yield,1726,Pulses,2013,6500,Fc,Calculated data
+1009,1008,QC,Crops,100,India,5419,Yield,1726,Pulses,2014,6544,Fc,Calculated data
+1010,1009,QC,Crops,100,India,5419,Yield,1729,Lentils,1994,6370,Fc,Calculated data
+1011,1010,QC,Crops,100,India,5419,Yield,1729,Lentils,1995,5722,Fc,Calculated data
+1012,1011,QC,Crops,100,India,5419,Yield,1729,Lentils,1996,6728,Fc,Calculated data
+1013,1012,QC,Crops,100,India,5419,Yield,1729,Lentils,1997,6590,Fc,Calculated data
+1014,1013,QC,Crops,100,India,5419,Yield,1729,Lentils,1998,5532,Fc,Calculated data
+1015,1014,QC,Crops,100,India,5419,Yield,1729,Lentils,1999,6628,Fc,Calculated data
+1016,1015,QC,Crops,100,India,5419,Yield,1729,Lentils,2000,7693,Fc,Calculated data
+1017,1016,QC,Crops,100,India,5419,Yield,1729,Lentils,2001,6560,Fc,Calculated data
+1018,1017,QC,Crops,100,India,5419,Yield,1729,Lentils,2002,6409,Fc,Calculated data
+1019,1018,QC,Crops,100,India,5419,Yield,1729,Lentils,2003,6633,Fc,Calculated data
+1020,1019,QC,Crops,100,India,5419,Yield,1729,Lentils,2004,7020,Fc,Calculated data
+1021,1020,QC,Crops,100,India,5419,Yield,1729,Lentils,2005,6770,Fc,Calculated data
+1022,1021,QC,Crops,100,India,5419,Yield,1729,Lentils,2006,7018,Fc,Calculated data
+1023,1022,QC,Crops,100,India,5419,Yield,1729,Lentils,2007,7380,Fc,Calculated data
+1024,1023,QC,Crops,100,India,5419,Yield,1729,Lentils,2008,7810,Fc,Calculated data
+1025,1024,QC,Crops,100,India,5419,Yield,1729,Lentils,2009,7913,Fc,Calculated data
+1026,1025,QC,Crops,100,India,5419,Yield,1729,Lentils,2010,6825,Fc,Calculated data
+1027,1026,QC,Crops,100,India,5419,Yield,1729,Lentils,2011,7222,Fc,Calculated data
+1028,1027,QC,Crops,100,India,5419,Yield,1729,Lentils,2012,7571,Fc,Calculated data
+1029,1028,QC,Crops,100,India,5419,Yield,1729,Lentils,2013,7713,Fc,Calculated data
+1030,1029,QC,Crops,100,India,5419,Yield,1732,Oils,1994,2431,Fc,Calculated data
+1031,1030,QC,Crops,100,India,5419,Yield,1732,Oils,1995,2384,Fc,Calculated data
+1032,1031,QC,Crops,100,India,5419,Yield,1732,Oils,1996,2511,Fc,Calculated data
+1033,1032,QC,Crops,100,India,5419,Yield,1732,Oils,1997,2446,Fc,Calculated data
+1034,1033,QC,Crops,100,India,5419,Yield,1732,Oils,1998,2310,Fc,Calculated data
+1035,1034,QC,Crops,100,India,5419,Yield,1732,Oils,1999,2200,Fc,Calculated data
+1036,1035,QC,Crops,100,India,5419,Yield,1732,Oils,2000,2242,Fc,Calculated data
+1037,1036,QC,Crops,100,India,5419,Yield,1732,Oils,2001,2265,Fc,Calculated data
+1038,1037,QC,Crops,100,India,5419,Yield,1732,Oils,2002,2069,Fc,Calculated data
+1039,1038,QC,Crops,100,India,5419,Yield,1732,Oils,2003,2606,Fc,Calculated data
+1040,1039,QC,Crops,100,India,5419,Yield,1732,Oils,2004,2451,Fc,Calculated data
+1041,1040,QC,Crops,100,India,5419,Yield,1732,Oils,2005,2692,Fc,Calculated data
+1042,1041,QC,Crops,100,India,5419,Yield,1732,Oils,2006,2626,Fc,Calculated data
+1043,1042,QC,Crops,100,India,5419,Yield,1732,Oils,2007,3062,Fc,Calculated data
+1044,1043,QC,Crops,100,India,5419,Yield,1732,Oils,2008,2623,Fc,Calculated data
+1045,1044,QC,Crops,100,India,5419,Yield,1732,Oils,2009,2581,Fc,Calculated data
+1046,1045,QC,Crops,100,India,5419,Yield,1732,Oils,2010,3050,Fc,Calculated data
+1047,1046,QC,Crops,100,India,5419,Yield,1732,Oils,2011,2992,Fc,Calculated data
+1048,1047,QC,Crops,100,India,5419,Yield,1732,Oils,2012,2791,Fc,Calculated data
+1049,1048,QC,Crops,100,India,5419,Yield,1732,Oils,2013,3028,Fc,Calculated data
+1050,1049,QC,Crops,100,India,5419,Yield,1732,Oils,2014,2775,Fc,Calculated data
+1051,1050,QC,Crops,100,India,5419,Yield,1751,commercial Crops,1994,16895,Fc,Calculated data
+1052,1051,QC,Crops,100,India,5419,Yield,1751,commercial Crops,1995,16393,Fc,Calculated data
+1053,1052,QC,Crops,100,India,5419,Yield,1751,commercial Crops,1996,18869,Fc,Calculated data
+1054,1053,QC,Crops,100,India,5419,Yield,1751,commercial Crops,1997,18100,Fc,Calculated data
+1055,1054,QC,Crops,100,India,5419,Yield,1751,commercial Crops,1998,17222,Fc,Calculated data
+1056,1055,QC,Crops,100,India,5419,Yield,1751,commercial Crops,1999,18359,Fc,Calculated data
+1057,1056,QC,Crops,100,India,5419,Yield,1751,commercial Crops,2000,18497,Fc,Calculated data
+1058,1057,QC,Crops,100,India,5419,Yield,1751,commercial Crops,2001,20024,Fc,Calculated data
+1059,1058,QC,Crops,100,India,5419,Yield,1751,commercial Crops,2002,19746,Fc,Calculated data
+1060,1059,QC,Crops,100,India,5419,Yield,1751,commercial Crops,2003,19860,Fc,Calculated data
+1061,1060,QC,Crops,100,India,5419,Yield,1751,commercial Crops,2004,20054,Fc,Calculated data
+1062,1061,QC,Crops,100,India,5419,Yield,1751,commercial Crops,2005,21652,Fc,Calculated data
+1063,1062,QC,Crops,100,India,5419,Yield,1751,commercial Crops,2006,21677,Fc,Calculated data
+1064,1063,QC,Crops,100,India,5419,Yield,1751,commercial Crops,2007,20959,Fc,Calculated data
+1065,1064,QC,Crops,100,India,5419,Yield,1751,commercial Crops,2008,20771,Fc,Calculated data
+1066,1065,QC,Crops,100,India,5419,Yield,1751,commercial Crops,2009,23122,Fc,Calculated data
+1067,1066,QC,Crops,100,India,5419,Yield,1751,commercial Crops,2010,22296,Fc,Calculated data
+1068,1067,QC,Crops,100,India,5419,Yield,1751,commercial Crops,2011,23301,Fc,Calculated data
+1069,1068,QC,Crops,100,India,5419,Yield,1751,commercial Crops,2012,22830,Fc,Calculated data
+1070,1069,QC,Crops,100,India,5419,Yield,1751,commercial Crops,2013,22800,Fc,Calculated data
+1071,1070,QC,Crops,100,India,5419,Yield,1753,Coarse Grains,1994,4170,Fc,Calculated data
+1072,1071,QC,Crops,100,India,5419,Yield,1753,Coarse Grains,1995,3795,Fc,Calculated data
+1073,1072,QC,Crops,100,India,5419,Yield,1753,Coarse Grains,1996,4398,Fc,Calculated data
+1074,1073,QC,Crops,100,India,5419,Yield,1753,Coarse Grains,1997,3842,Fc,Calculated data
+1075,1074,QC,Crops,100,India,5419,Yield,1753,Coarse Grains,1998,3718,Fc,Calculated data
+1076,1075,QC,Crops,100,India,5419,Yield,1753,Coarse Grains,1999,3958,Fc,Calculated data
+1077,1076,QC,Crops,100,India,5419,Yield,1753,Coarse Grains,2000,3671,Fc,Calculated data
+1078,1077,QC,Crops,100,India,5419,Yield,1753,Coarse Grains,2001,3766,Fc,Calculated data
+1079,1078,QC,Crops,100,India,5419,Yield,1753,Coarse Grains,2002,4039,Fc,Calculated data
+1080,1079,QC,Crops,100,India,5419,Yield,1753,Coarse Grains,2003,5059,Fc,Calculated data
+1081,1080,QC,Crops,100,India,5419,Yield,1753,Coarse Grains,2004,4788,Fc,Calculated data
+1082,1081,QC,Crops,100,India,5419,Yield,1753,Coarse Grains,2005,5321,Fc,Calculated data
+1083,1082,QC,Crops,100,India,5419,Yield,1753,Coarse Grains,2006,5819,Fc,Calculated data
+1084,1083,QC,Crops,100,India,5419,Yield,1753,Coarse Grains,2007,6183,Fc,Calculated data
+1085,1084,QC,Crops,100,India,5419,Yield,1753,Coarse Grains,2008,5517,Fc,Calculated data
+1086,1085,QC,Crops,100,India,5419,Yield,1753,Coarse Grains,2009,5548,Fc,Calculated data
+1087,1086,QC,Crops,100,India,5419,Yield,1753,Coarse Grains,2010,6326,Fc,Calculated data
+1088,1087,QC,Crops,100,India,5419,Yield,1753,Coarse Grains,2011,6167,Fc,Calculated data
+1089,1088,QC,Crops,100,India,5419,Yield,1753,Coarse Grains,2012,6095,Fc,Calculated data
+1090,1089,QC,Crops,100,India,5419,Yield,1753,Coarse Grains,2013,6432,Fc,Calculated data
+1091,1090,QC,Crops,100,India,5419,Yield,1814,Coarse Grains,1994,9143,Fc,Calculated data
+1092,1091,QC,Crops,100,India,5419,Yield,1814,Coarse Grains,1995,9307,Fc,Calculated data
+1093,1092,QC,Crops,100,India,5419,Yield,1814,Coarse Grains,1996,10710,Fc,Calculated data
+1094,1093,QC,Crops,100,India,5419,Yield,1814,Coarse Grains,1997,9796,Fc,Calculated data
+1095,1094,QC,Crops,100,India,5419,Yield,1814,Coarse Grains,1998,10704,Fc,Calculated data
+1096,1095,QC,Crops,100,India,5419,Yield,1814,Coarse Grains,1999,10345,Fc,Calculated data
+1097,1096,QC,Crops,100,India,5419,Yield,1814,Coarse Grains,2000,10296,Fc,Calculated data
+1098,1097,QC,Crops,100,India,5419,Yield,1814,Coarse Grains,2001,11263,Fc,Calculated data
+1099,1098,QC,Crops,100,India,5419,Yield,1814,Coarse Grains,2002,9699,Fc,Calculated data
+1100,1099,QC,Crops,100,India,5419,Yield,1814,Coarse Grains,2003,12346,Fc,Calculated data
+1101,1100,QC,Crops,100,India,5419,Yield,1814,Coarse Grains,2004,11258,Fc,Calculated data
+1102,1101,QC,Crops,100,India,5419,Yield,1814,Coarse Grains,2005,11423,Fc,Calculated data
+1103,1102,QC,Crops,100,India,5419,Yield,1814,Coarse Grains,2006,11849,Fc,Calculated data
+1104,1103,QC,Crops,100,India,5419,Yield,1814,Coarse Grains,2007,13865,Fc,Calculated data
+1105,1104,QC,Crops,100,India,5419,Yield,1814,Coarse Grains,2008,14587,Fc,Calculated data
+1106,1105,QC,Crops,100,India,5419,Yield,1814,Coarse Grains,2009,12520,Fc,Calculated data
+1107,1106,QC,Crops,100,India,5419,Yield,1814,Coarse Grains,2010,14978,Fc,Calculated data
+1108,1107,QC,Crops,100,India,5419,Yield,1814,Coarse Grains,2011,15641,Fc,Calculated data
+1109,1108,QC,Crops,100,India,5419,Yield,1814,Coarse Grains,2012,16355,Fc,Calculated data
+1110,1109,QC,Crops,100,India,5419,Yield,1814,Coarse Grains,2013,16112,Fc,Calculated data
+1111,1110,QC,Crops,100,India,5419,Yield,1814,Coarse Grains,2014,17607,Fc,Calculated data
+1112,1111,QC,Crops,100,India,5419,Yield,1817,Cereals,1994,17079,Fc,Calculated data
+1113,1112,QC,Crops,100,India,5419,Yield,1817,Cereals,1995,17252,Fc,Calculated data
+1114,1113,QC,Crops,100,India,5419,Yield,1817,Cereals,1996,17743,Fc,Calculated data
+1115,1114,QC,Crops,100,India,5419,Yield,1817,Cereals,1997,18174,Fc,Calculated data
+1116,1115,QC,Crops,100,India,5419,Yield,1817,Cereals,1998,18225,Fc,Calculated data
+1117,1116,QC,Crops,100,India,5419,Yield,1817,Cereals,1999,18750,Fc,Calculated data
+1118,1117,QC,Crops,100,India,5419,Yield,1817,Cereals,2000,18797,Fc,Calculated data
+1119,1118,QC,Crops,100,India,5419,Yield,1817,Cereals,2001,19585,Fc,Calculated data
+1120,1119,QC,Crops,100,India,5419,Yield,1817,Cereals,2002,18076,Fc,Calculated data
+1121,1120,QC,Crops,100,India,5419,Yield,1817,Cereals,2003,19510,Fc,Calculated data
+1122,1121,QC,Crops,100,India,5419,Yield,1817,Cereals,2004,19255,Fc,Calculated data
+1123,1122,QC,Crops,100,India,5419,Yield,1817,Cereals,2005,19508,Fc,Calculated data
+1124,1123,QC,Crops,100,India,5419,Yield,1817,Cereals,2006,19796,Fc,Calculated data
+1125,1124,QC,Crops,100,India,5419,Yield,1817,Cereals,2007,21059,Fc,Calculated data
+1126,1125,QC,Crops,100,India,5419,Yield,1817,Cereals,2008,21505,Fc,Calculated data
+1127,1126,QC,Crops,100,India,5419,Yield,1817,Cereals,2009,21159,Fc,Calculated data
+1128,1127,QC,Crops,100,India,5419,Yield,1817,Cereals,2010,21973,Fc,Calculated data
+1129,1128,QC,Crops,100,India,5419,Yield,1817,Cereals,2011,23382,Fc,Calculated data
+1130,1129,QC,Crops,100,India,5419,Yield,1817,Cereals,2012,24707,Fc,Calculated data
+1131,1130,QC,Crops,100,India,5419,Yield,1817,Cereals,2013,24289,Fc,Calculated data
+1132,1131,QC,Crops,100,India,5419,Yield,1817,Cereals,2014,24503,Fc,Calculated data
+1133,1132,QC,Crops,100,India,5419,Yield,1841,Oils,1994,4011,Fc,Calculated data
+1134,1133,QC,Crops,100,India,5419,Yield,1841,Oils,1995,4149,Fc,Calculated data
+1135,1134,QC,Crops,100,India,5419,Yield,1841,Oils,1996,4360,Fc,Calculated data
+1136,1135,QC,Crops,100,India,5419,Yield,1841,Oils,1997,4411,Fc,Calculated data
+1137,1136,QC,Crops,100,India,5419,Yield,1841,Oils,1998,4262,Fc,Calculated data
+1138,1137,QC,Crops,100,India,5419,Yield,1841,Oils,1999,4247,Fc,Calculated data
+1139,1138,QC,Crops,100,India,5419,Yield,1841,Oils,2000,4001,Fc,Calculated data
+1140,1139,QC,Crops,100,India,5419,Yield,1841,Oils,2001,4138,Fc,Calculated data
+1141,1140,QC,Crops,100,India,5419,Yield,1841,Oils,2002,3703,Fc,Calculated data
+1142,1141,QC,Crops,100,India,5419,Yield,1841,Oils,2003,5026,Fc,Calculated data
+1143,1142,QC,Crops,100,India,5419,Yield,1841,Oils,2004,4644,Fc,Calculated data
+1144,1143,QC,Crops,100,India,5419,Yield,1841,Oils,2005,5152,Fc,Calculated data
+1145,1144,QC,Crops,100,India,5419,Yield,1841,Oils,2006,5289,Fc,Calculated data
+1146,1145,QC,Crops,100,India,5419,Yield,1841,Oils,2007,6144,Fc,Calculated data
+1147,1146,QC,Crops,100,India,5419,Yield,1841,Oils,2008,5311,Fc,Calculated data
+1148,1147,QC,Crops,100,India,5419,Yield,1841,Oils,2009,5322,Fc,Calculated data
+1149,1148,QC,Crops,100,India,5419,Yield,1841,Oils,2010,6557,Fc,Calculated data
+1150,1149,QC,Crops,100,India,5419,Yield,1841,Oils,2011,6359,Fc,Calculated data
+1151,1150,QC,Crops,100,India,5419,Yield,1841,Oils,2012,6395,Fc,Calculated data
+1152,1151,QC,Crops,100,India,5419,Yield,1841,Oils,2013,6282,Fc,Calculated data
+1153,1152,QC,Crops,100,India,5419,Yield,1841,Oils,2014,5775,Fc,Calculated data
+1154,1154,QC,Crops,100,India,5419,Yield,541,Fruits,2014,8456,Fc,Calculated data
+1155,1155,QC,Crops,100,India,5419,Yield,569,Fruits,2014,16939,Fc,Calculated data
+1156,1156,QC,Crops,100,India,5419,Yield,656,Breweries,2014,20362,Fc,Calculated data
+1157,1157,QC,Crops,100,India,5419,Yield,667,Breweries,2014,21433,Fc,Calculated data
+1158,1158,QC,Crops,100,India,5419,Yield,780,commercial Crops,2014,62800,Fc,Calculated data
+1159,1159,QC,Crops,100,India,5419,Yield,826,commercial Crops,2014,64300,Fc,Calculated data
+1160,1160,QC,Crops,100,India,5419,Yield,836,commercial Crops,2014,34545,Fc,Calculated data
+1161,1161,QC,Crops,100,India,5419,Yield,1751,commercial Crops,2014,81739,Fc,Calculated data
+1162,1162,QC,Crops,100,India,5419,Yield,249,Coconuts,2010,52997,Fc,Calculated data
