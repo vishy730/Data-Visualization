@@ -1,11 +1,11 @@
 <html>
 <head>
-        <meta charset="utf-8">
-        <script src="http://d3js.org/d3.v3.min.js"></script>
-        <script src="http://dimplejs.org/dist/dimple.v2.0.0.min.js"></script>
-        </script>
-		<title>Yield of various crops in India</title>
-    </head>
+	<meta charset="utf-8">
+	<script src="http://d3js.org/d3.v3.min.js"></script>
+	<script src="http://dimplejs.org/dist/dimple.v2.0.0.min.js"></script>
+	</script>
+	<title>Yield of various crops in India</title>
+</head>
 <body>
 <div id = "parent">
 <table>
@@ -23,10 +23,10 @@
 	Also the year 2014 was severly hit by <i> <b>El Niño </b> </i> effect and was visible clearly in the chart. <p/>
 	
 	<i>  
-	 On y-axis <b>Yield</b> is in tonnes and is the total production in a given year. <b>Crops</b> on x-axis shows various types of crops that are considered.
-	 On right hand side we have the years with animation and corresponding yield is shown in the graph. Alternatively we can hover over any bar to see the overall
-	 trend of the particular crop. The graph is miniature version of the bar graph except that it is a line chart that shows the trend and axis values remain the same.
-	 The length of the year bar represents the production of crops.
+	On y-axis <b>Yield</b> is in tonnes and is the total production in a given year. <b>Crops</b> on x-axis shows various types of crops that are considered.
+	On right hand side we have the years with animation and corresponding yield is shown in the graph. Alternatively we can hover over any bar to see the overall
+	trend of the particular crop. The graph is miniature version of the bar graph except that it is a line chart that shows the trend and axis values remain the same.
+	The length of the year bar represents the production of crops.
 	</i>
 </td>
 </tr>
@@ -36,9 +36,9 @@
 </table>
 
 <div id='chartContainer2'>
-        <script type="text/javascript">
-  
-	var svg = dimple.newSvg("#chartContainer2", 1200, 600);	
+    <script type="text/javascript">
+	//creating svg object
+	var svg = dimple.newSvg("#chartContainer2", 1200, 600);
     d3.csv("crops_production.csv", function (data) {
 		//Filtering years
 		data = dimple.filterData(data, "Year", [
@@ -299,57 +299,58 @@
 	In the below chart, we have highlighted only 3 crops. We could see that <b>Coconuts</b> yield has steadily increased over the years, whereas the yield of
 	<b>Fruits</b> and <b>Commercial Crops</b> was inversely proportional to each other since <b>2001</b>. Interestingly there was no <i> <b>El Niño </b> </i>
 	effect on Commercial Crops.<p/>
-	
+
 	<i>  
-	 On y-axis <b>Yield</b> is in tonnes and is the total production in a given year. <b>Crops</b> on x-axis shows various types of crops that are considered.
-	 On hover over the points in the line chart, we could see the total yield of that particular crop for a particular year.
+	On y-axis <b>Yield</b> is in tonnes and is the total production in a given year. <b>Year</b> on x-axis shows various types of crops that are considered.
+	On hover over the points in the line chart, we could see the total yield of that particular crop for a particular year.
 	</i>
 </td>
 </tr>
 </table>
-<table>
-<tr>
-<td>
 
-</td>
-</tr>
-</table>
 	
-<div id="chartContainer1">  
+<div id="chartContainer1">
 	<script src="http://d3js.org/d3.v3.min.js"></script>
 	<script src="http://dimplejs.org/dist/dimple.v2.0.0.min.js"></script>
 	</script>
 	<script type="text/javascript">
 	var svg1 = dimple.newSvg("#chartContainer1", 890, 450);
+	//setting the title to the chart
 	svg1.append("text").attr("x", (svg[0][0].clientWidth / 2)).attr("y", 18)
 	.attr("text-anchor", "middle").style("font-size", "23px").style("font-weight", "bold")
 	.text("Trends of Commercial Crops, Fruits and Coconuts");
+	//getting data from tsv file
 	d3.csv("crops_production_combined.csv", function (data1) {
+		//Filtering the data
 		data1 = dimple.filterData(data1, "ItemName", ["commercial Crops", "Coconuts", "Fruits"])
 		var myChart1 = new dimple.chart(svg1, data1);
-		myChart1.setBounds(120, 60, 505, 305);	  
-		var x1 = myChart1.addCategoryAxis("x", "Year");	  
+		myChart1.setBounds(120, 60, 505, 305);
+		//x-axis manipulation
+		var x1 = myChart1.addCategoryAxis("x", "Year");
 		x1.addOrderRule("Year");
 		x1.overrideMin = 1994;
-		x1.overrideMax = 2014;	  
-		var y1 = myChart1.addMeasureAxis("y", "Production.in.tonnes");		
-		y1.title = "Yield in Tonnes";	  
-		y1.tickFormat = ',1f';		
+		x1.overrideMax = 2014;
+		//y-axis manipulation
+		var y1 = myChart1.addMeasureAxis("y", "Production.in.tonnes");
+		y1.title = "Yield in Tonnes";
+		y1.tickFormat = ',1f';
 		y1.ticks = 10;
+		//s-axis manipulation
 		var s2 = myChart1.addSeries("ItemName", dimple.plot.line);
-		s2.lineMarkers = true;	  
+		s2.lineMarkers = true;
 		s2.interpolation = "cardinal";
+		//setting boundaries
 		myChart1.addLegend(60, 40, 500, 20, "right");
-		
+		//drawing the chart
 		myChart1.draw();
 	});
   </script>
 </div>
 
 <footer>
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
+	<div class="container">
+	<div class="row">
+	<div class="col-md-12">
 <table>
 <tr>
 <td>
@@ -366,25 +367,25 @@
   </footer>
   
   <div id="commentary">
-                <p>
-                    They key take aways from this chart could be:
-                </p>
+	<p>
+	They key take aways from this chart could be:
+	</p>
 
-                <ul>
-                    <li>
-                        Coconuts were consistent performers.
-                    </li>
-                    <li>
-                        Commercial Crops such as Jute, Cotton, Tobacco have been taking over other crops in terms of yield.
-                    </li>
-                    <li>
-                        Fruits yield over the years was rather disappointing.
-                    </li>
-					<li>
-                        Along with Fruits, Vegetables yield was also very fluctuating over the years.
-                    </li>
-                </ul>
-            </div>
+	<ul>
+		<li>
+			Coconuts were consistent performers.
+		</li>
+		<li>
+			Commercial Crops such as Jute, Cotton, Tobacco have been taking over other crops in terms of yield.
+		</li>
+		<li>
+			Fruits yield over the years was rather disappointing.
+		</li>
+		<li>
+			Along with Fruits, Vegetables yield was also very fluctuating over the years.
+		</li>
+	</ul>
+	</div>
 
 <h4 display="block">Future Work</h4>
 	<ul>
