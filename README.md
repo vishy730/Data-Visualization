@@ -1,8 +1,8 @@
-# Is there any effect of deforestation and industrialization on Crops Yield over the last two decades?
+# Are Commercial Crops in India dominating traditional crops and staples over the two decades?
 
 ## Summary
 
-   What are the effects of Industrialization, Global Warming, Deforestation? The primary affected sector is agriculture and lets explore here what are those effects and whether commercial crops were affected or staple ones. After having a bit of analysis, we could see that effect was visible on fruits and vegetables espically but commercial crops were steadily picking up over the two decades. Lets go through to understand the effects better over the years.
+   Is India heading more towards commercial crops though being one of the major exporters of Staple foods such as cereals? May be, if we observe the last two decades trend of yield of different crops, the answer is Yes. After having a bit of analysis, we could see that effect was visible on fruits and vegetables espically but commercial crops were steadily picking up over the two decades. Lets go through to understand the effects better over the years.
 
 ## Design
 
