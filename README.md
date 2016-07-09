@@ -117,6 +117,45 @@ http://bl.ocks.org/vishy730/b65bb7d42a4dc61b88fd666249cd79a9
 
 In this version, commercial crops such as Jute, Cotton, Tobacco were grouped and assiged a color Blue. The interesting crop Coconuts were steadily increasing over the years was given Red color and the diminishing trend of Fruits was given Green. The primary colors RBG were choosen so that they are catchy to eye-ball. Now by looking at the chart one could easily understand the trend of commerical crops were increased over the years and the coconut is the real winner since 2 decades in terms of production. So the three trends were highliighted in the chart for better understanding and conveying a story. Also the year 2014 was hit severly by El nino effect and was visible clearly in the chart. 
 
+##Preparing the data for combining 4 crops into one (commercial crops)
+```
+# read the data
+crops <- read.csv("crops_production.csv", check.names = TRUE, fileEncoding = "UTF-8")
+cropsdf <- data.frame(crops)
+
+# getting the existing levels for the crops.
+levels(cropsdf$ItemName)
+
+# Results - Initial
+[1] "Breweries"        "Cereals"          "Coarse Grains"    "Coconuts"         "Dry Fruits"      
+ [6] "Fruits"           "Jute products"    "Lentils"          "Oils"             "Pulses"          
+[11] "Raw Tobacco"      "Rubber & natural" "Seed cotton"      "Spices"           "Vegetables" 
+
+# combining the levels required
+levels(cropsdf$ItemName)[c(7,11,12,13)] <- c("commercial Crops")
+
+levels(cropsdf$ItemName)
+# Results - after combining
+
+[1] "Breweries"        "Cereals"          "Coarse Grains"    "Coconuts"         "Dry Fruits"      
+ [6] "Fruits"           "commercial Crops" "Lentils"          "Oils"             "Pulses"          
+[11] "Spices"           "Vegetables" 
+
+# writing to file
+
+write.csv(cropsdf, "crops_production_combined.csv",row.names=FALSE)
+```
+
+## Final Visualization - Iteration -5:
+
+![Minion](https://github.com/vishy730/Data-Visualization/blob/master/Capture_7.JPG)
+
+## Working example.
+
+http://bl.ocks.org/vishy730/raw/3fffab0646e5d183eee4f1aa925fef1b/
+
+In this version, as per reviewers comment, have used line chart for better representation of the data by combining the commercial crops Jute, Seed Cotton, Raw Tobacco and Rubber into one. Have filtered the data for this chart to show only commercial crops, fruits and coconuts for showing trend more specifically.
+
 #### Observations: 
 
 * Of all the crops, Coconut showed the steady increase in the yield followed by pulses.
