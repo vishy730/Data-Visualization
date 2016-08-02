@@ -1,0 +1,274 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Data-visualization by vishy730</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-dark.css">
+    <script src="javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Data-visualization</h1>
+        <p>Data Visualization of Crops Yield from India over a period of 20 years.</p>
+        <p class="view"><a href="https://github.com/vishy730/Data-Visualization">View the Project on GitHub <small>vishy730/Data-Visualization</small></a></p>
+        <ul>
+          <li><a href="https://github.com/vishy730/Data-Visualization/zipball/master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/vishy730/Data-Visualization/tarball/master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="https://github.com/vishy730/Data-Visualization">View On <strong>GitHub</strong></a></li>
+        </ul>
+      </header>
+      <section>
+        <h1>
+<a id="are-commercial-crops-in-india-dominating-traditional-crops-and-staples-over-the-two-decades" class="anchor" href="#are-commercial-crops-in-india-dominating-traditional-crops-and-staples-over-the-two-decades" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Are Commercial Crops in India dominating traditional crops and staples over the two decades?</h1>
+
+<h2>
+<a id="summary" class="anchor" href="#summary" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Summary</h2>
+
+<p>Is India heading more towards commercial crops though being one of the major exporters of Staple foods such as cereals? May be, if we observe the last two decades trend of yield of different crops, the answer is Yes. After having a bit of analysis, we could see that effect was visible on fruits and vegetables espically but commercial crops were steadily picking up over the two decades. Lets go through to understand the effects better over the years.</p>
+
+<h2>
+<a id="design" class="anchor" href="#design" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Design</h2>
+
+<h3>
+<a id="1preparing-the-data" class="anchor" href="#1preparing-the-data" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1.Preparing the data:</h3>
+
+<p>checking for any NA values and removing such entries.</p>
+
+<pre><code>&gt; timeuse&lt;-read.csv("D:/udacity/project6/lesson2/crops_production_2.csv");
+&gt; timeusedf&lt;-data.frame(timeuse);
+&gt; summary(timeusedf)
+                                     Domain.Code     Domain        AreaCode    AreaName     ElementCode   ElementName           ItemName        Year     
+                                           :   1        :   2   Min.   :100        :   2   Min.   :5419        :   2   Vegetables   :528   Min.   :1994  
+ FAOSTAT Date: Tue Mar 22 05:10:23 CET 2016:   1   Crops:1934   1st Qu.:100   India:1934   1st Qu.:5419   Yield:1934   Fruits       :420   1st Qu.:1999  
+ QC                                        :1934                Median :100                Median :5419                Coarse Grains:208   Median :2004  
+                                                                Mean   :100                Mean   :5419                Dry Fruits   :162   Mean   :2004  
+                                                                3rd Qu.:100                3rd Qu.:5419                Spices       :141   3rd Qu.:2009  
+                                                                Max.   :100                Max.   :5419                Cereals      : 84   Max.   :2014  
+                                                                NA's   :2                  NA's   :2                   (Other)      :393   NA's   :2     
+     Value        Flag                  FlagD     
+ Min.   :  1059     :   2                  :   2  
+ 1st Qu.:  9015   Fc:1934   Calculated data:1934  
+ Median : 28915                                   
+ Mean   : 71462                                   
+ 3rd Qu.:101294                                   
+ Max.   :765328                                   
+ NA's   :2
+
+modifieddf&lt;-na.omit(timeusedf)
+write.csv(timeusedf,file = "crops_production.csv")     
+</code></pre>
+
+<p>After exploring the data, and trying out different charts, I thought to communicate in fancy way and used bubble chart/scatter plot for my initial draft and posted for feedback. I quickly realized that for Time series line chart is best and I got the same comments when I took feedback from members. So I choose to stick to the story rather than fancy presentation. </p>
+
+<p>Line chart simply communicates the data in better fashion espically when we are dealing with time series. I have taken the max values for each Item/product and displayed on hoverover of the points in the line chart. Item codes have different names which dataset didnt provide and to be considered for future development.</p>
+
+<h3>
+<a id="line-chart" class="anchor" href="#line-chart" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Line Chart</h3>
+
+<table>
+<thead>
+<tr>
+<th>Visual Encoding</th>
+<th>Variable</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>x-axis</td>
+<td>Year</td>
+</tr>
+<tr>
+<td>y-axis</td>
+<td>max count</td>
+</tr>
+<tr>
+<td>color hue</td>
+<td>Item Name</td>
+</tr>
+</tbody>
+</table>
+
+<p>Bar chart communicates better when we are comparing which crop is yielding more in a given year. I have taken the max values for each Item/product and displayed on hoverover of the points in the line chart. Item codes have different names which dataset didnt provide and to be considered for future development.</p>
+
+<h3>
+<a id="layout-and-narrative" class="anchor" href="#layout-and-narrative" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Layout and Narrative</h3>
+
+<p>Layout is thought of communicating the trends of different crops. The idea is to narrate the trends of production yield in India over the period of 20 years. The initial design before feedback shows the trends in very cluttered way.</p>
+
+<p><img src="https://github.com/vishy730/Data-Visualization/blob/master/Capture.JPG" alt="Minion"></p>
+
+<h5>
+<a id="feedback-1" class="anchor" href="#feedback-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Feedback 1.</h5>
+
+<blockquote>
+<p>Hi Vishy, nice visualization. I am missing some context to fully understand the plot, maybe you can add some text? What is the x-axes (no label)? I can only see it with mouseOver event. What  the unit of value of crop production? The legend of the colours is not fully readable to me (letters cut off). I also think a line graph is better for time-series. good luck!</p>
+</blockquote>
+
+<h5>
+<a id="feedback-2" class="anchor" href="#feedback-2" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Feedback 2.</h5>
+
+<blockquote>
+<p>I would say that the data are incomplete, as all data points are much lower than the previous years. Remember that for your final project, your visualization should be more explanatory than exploratory (your visualization should have a clear finding and focus on that). So, maybe you could include some text to help users get the story you are trying to convey.</p>
+</blockquote>
+
+<h5>
+<a id="feedback-3" class="anchor" href="#feedback-3" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Feedback 3.</h5>
+
+<blockquote>
+<p>Perhaps when you click one of those crops, the graph should have a change of scale. Perhaps log, or a cut in the scale.</p>
+</blockquote>
+
+<p>Considering above all the feedback points, I have modified the graph from bubble chart to line chart and applied aggregateMax function over ItemCode and showed it, on the hoverover of the points, instead of total count of the Yield per year. Also changed the title of y-axis.</p>
+
+<p>Considering the feedback from the reviewer, I have created a story board and thought that bar chart would be apt for this visualization and modified the same.</p>
+
+<h3>
+<a id="bar-chart" class="anchor" href="#bar-chart" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Bar Chart</h3>
+
+<table>
+<thead>
+<tr>
+<th>Visual Encoding</th>
+<th>Variable</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>x-axis</td>
+<td>Item Name</td>
+</tr>
+<tr>
+<td>y-axis</td>
+<td>max count</td>
+</tr>
+<tr>
+<td>color hue</td>
+<td>Year</td>
+</tr>
+</tbody>
+</table>
+
+<h2>
+<a id="final-visualization---iteration--1" class="anchor" href="#final-visualization---iteration--1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Final Visualization - Iteration -1:</h2>
+
+<p><img src="https://github.com/vishy730/Data-Visualization/blob/master/Capture1.JPG" alt="Minion"></p>
+
+<h2>
+<a id="working-example" class="anchor" href="#working-example" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Working Example</h2>
+
+<p><a href="http://bl.ocks.org/vishy730/2103dcf7f20ff086bde3400f58a3d1e2">http://bl.ocks.org/vishy730/2103dcf7f20ff086bde3400f58a3d1e2</a></p>
+
+<p>In the above example we could see the distribution of various crops over the years and its a bit harder to identify the trends from it. However, we could observe a couple of things such as pulses and Lentils were more or less the same or in other words, the production is constant with some variance here and there till El Nino effect hit harder in 2014. So we have moved over a more sophisticated chart to understand the trends better.</p>
+
+<h2>
+<a id="final-visualization---iteration--2" class="anchor" href="#final-visualization---iteration--2" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Final Visualization - Iteration -2:</h2>
+
+<p><img src="https://github.com/vishy730/Data-Visualization/blob/master/Capture2.PNG" alt="Minion"></p>
+
+<h2>
+<a id="working-example-1" class="anchor" href="#working-example-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Working Example</h2>
+
+<p><a href="http://bl.ocks.org/vishy730/58dcc8f664c2eb73da90837cece47b4d">http://bl.ocks.org/vishy730/58dcc8f664c2eb73da90837cece47b4d</a></p>
+
+<p>In this version we could see that chart is not cluttered. However, it was again difficult to draw the conclusion of various crop yields. Still we can observe that Fruits and vegetables were the most fluctuating crops in terms of yield. So can we conclude that fruit and vegetable crops were badly affected? In order to confirm we wanted to show the trends of all the crops across the years for better understanding. So we have introduced trend graphs in next iteration.</p>
+
+<h2>
+<a id="final-visualization---iteration--3" class="anchor" href="#final-visualization---iteration--3" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Final Visualization - Iteration -3:</h2>
+
+<p><img src="https://github.com/vishy730/Data-Visualization/blob/master/Capture_3.PNG" alt="Minion"></p>
+
+<h2>
+<a id="working-example-2" class="anchor" href="#working-example-2" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Working example.</h2>
+
+<p><a href="http://bl.ocks.org/vishy730/42beef5005b2010401ed895002a58992">http://bl.ocks.org/vishy730/42beef5005b2010401ed895002a58992</a></p>
+
+<p>In this version, introduced the trend for each crop on hover over of each crop. Have used crops for x-axis as I wanted to show different categories. The animation for years has given so that one can see the yield of crops over the years automatically. The hover over graph tells us the overall trend for a given crop over the years. Here I could find that coconuts had steady growth in yield and Fruits had very much turbulent down trend. However, by looking at the chart itself we could not deduct anything better apart from knowing the trend of each crop on hover over. So we thought of grouping various crops based on color and show the trends.</p>
+
+<h2>
+<a id="final-visualization---iteration--4" class="anchor" href="#final-visualization---iteration--4" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Final Visualization - Iteration -4:</h2>
+
+<p><img src="https://github.com/vishy730/Data-Visualization/blob/master/Capture_5.JPG" alt="Minion"></p>
+
+<h2>
+<a id="working-example-3" class="anchor" href="#working-example-3" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Working example.</h2>
+
+<p><a href="http://bl.ocks.org/vishy730/b65bb7d42a4dc61b88fd666249cd79a9">http://bl.ocks.org/vishy730/b65bb7d42a4dc61b88fd666249cd79a9</a></p>
+
+<p>In this version, commercial crops such as Jute, Cotton, Tobacco were grouped and assiged a color Blue. The interesting crop Coconuts were steadily increasing over the years was given Red color and the diminishing trend of Fruits was given Green. The primary colors RBG were choosen so that they are catchy to eye-ball. Now by looking at the chart one could easily understand the trend of commerical crops were increased over the years and the coconut is the real winner since 2 decades in terms of production. So the three trends were highliighted in the chart for better understanding and conveying a story. Also the year 2014 was hit severly by El nino effect and was visible clearly in the chart. </p>
+
+<h2>
+<a id="preparing-the-data-for-combining-4-crops-into-one-commercial-crops" class="anchor" href="#preparing-the-data-for-combining-4-crops-into-one-commercial-crops" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Preparing the data for combining 4 crops into one (commercial crops)</h2>
+
+<pre><code># read the data
+crops &lt;- read.csv("crops_production.csv", check.names = TRUE, fileEncoding = "UTF-8")
+cropsdf &lt;- data.frame(crops)
+
+# getting the existing levels for the crops.
+levels(cropsdf$ItemName)
+
+# Results - Initial
+[1] "Breweries"        "Cereals"          "Coarse Grains"    "Coconuts"         "Dry Fruits"      
+ [6] "Fruits"           "Jute products"    "Lentils"          "Oils"             "Pulses"          
+[11] "Raw Tobacco"      "Rubber &amp; natural" "Seed cotton"      "Spices"           "Vegetables" 
+
+# combining the levels required
+levels(cropsdf$ItemName)[c(7,11,12,13)] &lt;- c("commercial Crops")
+
+levels(cropsdf$ItemName)
+# Results - after combining
+
+[1] "Breweries"        "Cereals"          "Coarse Grains"    "Coconuts"         "Dry Fruits"      
+ [6] "Fruits"           "commercial Crops" "Lentils"          "Oils"             "Pulses"          
+[11] "Spices"           "Vegetables" 
+
+# writing to file
+
+write.csv(cropsdf, "crops_production_combined.csv",row.names=FALSE)
+</code></pre>
+
+<h2>
+<a id="final-visualization---iteration--5" class="anchor" href="#final-visualization---iteration--5" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Final Visualization - Iteration -5:</h2>
+
+<p><img src="https://github.com/vishy730/Data-Visualization/blob/master/Capture_7.JPG" alt="Minion"></p>
+
+<h2>
+<a id="working-example-4" class="anchor" href="#working-example-4" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Working example.</h2>
+
+<p><a href="http://bl.ocks.org/vishy730/raw/3fffab0646e5d183eee4f1aa925fef1b/">http://bl.ocks.org/vishy730/raw/3fffab0646e5d183eee4f1aa925fef1b/</a></p>
+
+<p>In this version, as per reviewers comment, have used line chart for better representation of the data by combining the commercial crops Jute, Seed Cotton, Raw Tobacco and Rubber into one. Have filtered the data for this chart to show only commercial crops, fruits and coconuts for showing trend more specifically.</p>
+
+<h4>
+<a id="observations" class="anchor" href="#observations" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Observations:</h4>
+
+<ul>
+<li>Of all the crops, Coconut showed the steady increase in the yield followed by pulses.</li>
+<li>The most fluctuating yield was observed in two crops - Fruits and Vegetables.</li>
+</ul>
+
+<h3>
+<a id="future-work" class="anchor" href="#future-work" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Future Work:</h3>
+
+<ul>
+<li>ItemCode mapping should be done and breakdown of various itemcodes for a given Item.</li>
+<li>Summary Legend on top right of the graph showing Top 5 yields over the years.</li>
+</ul>
+      </section>
+    </div>
+    <footer>
+      <p>Project maintained by <a href="https://github.com/vishy730">vishy730</a></p>
+      <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+    </footer>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+    
+  </body>
+</html>
